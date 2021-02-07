@@ -810,7 +810,7 @@ footer {
   width: 260px;
   height: 100vh;
   /* position FIXED */
-  position: absolute;
+  position: fixed;
   top: 0;
   z-index: 10;
   background-color: #F7FAFF;

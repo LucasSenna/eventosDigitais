@@ -41,7 +41,7 @@
                 <!-- Titulo Figura -->
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 1:</strong> Titulo_da_Figura</p>
-                    <a href="imagens/Figura01.png" data-toggle="lightbox" data-footer="Texto_Imagem_Modal">
+                    <a href="../imagens/Figura01.png" data-toggle="lightbox" data-footer="Texto_Imagem_Modal">
                         <img class="img-fluid" src="imagens/Figura01.png" alt="Alt_da_Imagem">
                     </a>
                     <p class="FonteFigura">Legenda_da_Imagem</p>

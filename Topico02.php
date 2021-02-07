@@ -407,174 +407,182 @@ include('layout/header.php');
                     O rico comparativo entre as categorias de eventos apresentados no ebook apresenta as <strong>diferentes dinâmicas entre os eventos presenciais, híbridos e 100% virtuais</strong>. Os itens em azul devem ser lidos com atenção, pois serão comentados na sequência.
                 </p>
 
-                <table class="table table-bordered">
-                    <thead>
-                        <tr>
-                            <th scope="col">Aspectos</th>
-                            <th scope="col">Presencial</th>
-                            <th scope="col">Híbrido</th>
-                            <th scope="col">Virtual</th>
-                        </tr>
-                    </thead>
-                    <tbody class="tBody">
-                        <tr>
-                            <th>Fator de atração</th>
-                            <th>Atraem público para um único local e para o networking. </th>
-                            <th>Também converge todos para um mesmo local. No virtual, a atração principal é o conteúdo e a dinâmica dos encontros presenciais. </th>
-                            <th>O que atrai é o conteúdo e a facilidade de acesso. Flexibilidade de tempo. Não há necessidade de deslocamento. </th>
-                        </tr>
-                        <tr>
-                            <th>Conteúdo</th>
-                            <th>Conteúdo direcionado e dinâmicas de interação presencial que reforçam sua retenção. Conteúdos com maior profundidade.</th>
-                            <th>O conteúdo do híbrido deve ser mais rico que o presencial para motivar a participação Os participantes do híbrido podem não ter acesso a todos os conteúdos do evento.</th>
-                            <th>Conteúdos mais curtos e mais precisos. Densos e práticos. </th>
-                        </tr>
-                        <tr>
-                            <th>Tamanho do público</th>
-                            <th>Limitado ao espaço e ao mercado regional (pessoas podem viajar até o local do evento).</th>
-                            <th class="text-primary">Limite do espaço físico e potencial de alcançar dezenas de milhares de pessoas virtualmente. Alguns eventos possuem potenciais até maiores.</th>
-                            <th class="text-primary">Potencial para alcançar dezenas de milhares de pessoas virtualmente. Alguns eventos possuem potencial para alcançar número ainda maior de pessoas, principalmente após o público se acostumar mais com este tipo de evento.</th>
-                        </tr>
-                        <tr>
-                            <th>Programação</th>
-                            <th>Oferece formato e programa variados, desde plenária, seminários, sessões simultâneas e paralelas.</th>
-                            <th>Programação mais complexa para criar que o presencial, uma vez que precisa atender, de forma integrada, os públicos d</th>
-                            <th>Programação mais flexível quanto aos dias e horários. Possibilidade de várias sessões paralelas com moderadores e públicos de tamanhos distintos.</th>
-                        </tr>
-                        <tr>
-                            <th>Sustentabilidade</th>
-                            <th>Maior uso de papel e geração de lixo. Maior emissão de CO2 per capita.</th>
-                            <th>Geração de resíduos sólidos e uso do papel proporcionalmente menor</th>
-                            <th class="text-primary">Sem uso de papel. Sem geração de resíduos sólidos.</th>
-                        </tr>
-                        <tr>
-                            <th>Custo para desenvolvimento</th>
-                            <th>Demanda maior investimento</th>
-                            <th>Demanda maior investimento </th>
-                            <th>Demanda maior investimento nos primeiros eventos. tende a diminuir com o tempo</th>
-                        </tr>
-                        <tr>
-                            <th>Custo para o participante </th>
-                            <th>Mais caro </th>
-                            <th>No presencial igual. No virtual, mais acessível que o presencial. </th>
-                            <th>Menor custo entre os modelos</th>
-                        </tr>
-                        <tr>
-                            <th>Estruturas de mobilidade </th>
-                            <th>Transporte, táxi, estacionamento, transporte público, Uber.</th>
-                            <th>Transporte, táxi, estacionamento, transporte público, Uber.</th>
-                            <th>Sem necessidade de mobilidade.</th>
-                        </tr>
-                        <tr>
-                            <th>Necessidades de estruturas físicas </th>
-                            <th>Demanda local adequado, com estacionamento, próximo de transporte público, com ar condicionado, mesas, cadeiras, projetores, cenografia etc.</th>
-                            <th>Idem para o evento presencial. Essencial alta qualidade de vídeo, áudio e conexão. </th>
-                            <th>Essencial alta qualidade de vídeo, áudio e conexão. Não demanda local específico.</th>
-                        </tr>
-                        <tr>
-                            <th>Infraestrutura (banheiros, A&B, segurança, …)</th>
-                            <th>Necessidade de providências e cuidados para que os presentes se sintam bem, alimentados e confortáveis. </th>
-                            <th>Igual no presencial. Nenhuma necessidade de infraestrutura física no virtual.</th>
-                            <th>Nenhuma necessidade de infraestrutura física.</th>
-                        </tr>
-                        <tr>
-                            <th>Networking (entre os participantes)</th>
-                            <th>Permite interação face a face.</th>
-                            <th>Permite interação face a face no presencial, mas existem barreiras a serem vencidas na interação entre os virtuais e os presenciais. </th>
-                            <th>Mais difícil e trabalhoso. Demanda de articulação e de tecnologias. O fato de não ter acontecido o encontro presencial faz com que as pessoas demorem a conectar umas com as outras. Em alguns públicos, acontece o contrário: o virtual as ajuda a se conectar mais rápido.</th>
-                        </tr>
-                        <tr>
-                            <th>Engajamento</th>
-                            <th>Permite atividades presenciais, mas também o uso da tecnologia. O engajamento se dá pela própria presencialidade</th>
-                            <th>Requer mais criatividade e recursos de tecnologia que o presencial, principalmente para engajar os virtuais.</th>
-                            <th>Estratégias diferentes e novos métodos de engajamento são necessários, uma vez que as pessoas, nos canais virtuais só permanecem em eventos que realmente estão adicionando valor para sua trajetória profissional ou pessoal.</th>
-                        </tr>
-                        <tr>
-                            <th>Investimento em tecnologia</th>
-                            <th class="text-primary">Médio</th>
-                            <th class="text-primary">Alto</th>
-                            <th class="text-primary">Alto</th>
-                        </tr>
-                        <tr>
-                            <th>Dados e Analytics</th>
-                            <th>Para a geração de dados e Analytics é necessário investimento em pesquisas de campo. É mais caro no médio e no longo prazos. </th>
-                            <th>Melhor estrutura de dados. Fica mais barato no longo prazo.</th>
-                            <th>Fortemente estruturado em dados. Muito barato nos médio e longo prazos. </th>
-                        </tr>
-                        <tr>
-                            <th>Potencial de vendas</th>
-                            <th>Para expositores, o encontro presencial promove mais e melhores vendas</th>
-                            <th>Para expositores, o encontro presencial promove mais e melhores vendas que no virtual.</th>
-                            <th>O potencial de vendas fica razoavelmente prejudicado em detrimento da falta do encontro presencial. Showcases virtuais ajudam a diminuir esse problema, mas não se comparam com expositores presenciais.</th>
-                        </tr>
-                        <tr>
-                            <th>Feiras (potencial para expositores) </th>
-                            <th>Cenário ideal para expositores</th>
-                            <th>Cenário ideal para expositores do evento presencial </th>
-                            <th>É necessária a aplicação de novas tecnologias e métodos para a aproximação de um cenário aceitável. Em determinados eventos, a experiência virtual pode até suplantar o evento presencial, mas é necessário maior investimento em tecnologia.</th>
-                        </tr>
-                        <tr>
-                            <th>Tempo para desenvolvimento (*)</th>
-                            <th class="text-primary">De 1 a 6 meses</th>
-                            <th class="text-primary">De 1 a 6 meses</th>
-                            <th class="text-primary">De 1 a 2 meses</th>
-                        </tr>
-                    </tbody>
-                </table>
+                <div class="container">
+                    <div class="table-responsive">
+                        <table class="table table-bordered">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Aspectos</th>
+                                    <th scope="col">Presencial</th>
+                                    <th scope="col">Híbrido</th>
+                                    <th scope="col">Virtual</th>
+                                </tr>
+                            </thead>
+                            <tbody class="tBody">
+                                <tr>
+                                    <th>Fator de atração</th>
+                                    <th>Atraem público para um único local e para o networking. </th>
+                                    <th>Também converge todos para um mesmo local. No virtual, a atração principal é o conteúdo e a dinâmica dos encontros presenciais. </th>
+                                    <th>O que atrai é o conteúdo e a facilidade de acesso. Flexibilidade de tempo. Não há necessidade de deslocamento. </th>
+                                </tr>
+                                <tr>
+                                    <th>Conteúdo</th>
+                                    <th>Conteúdo direcionado e dinâmicas de interação presencial que reforçam sua retenção. Conteúdos com maior profundidade.</th>
+                                    <th>O conteúdo do híbrido deve ser mais rico que o presencial para motivar a participação Os participantes do híbrido podem não ter acesso a todos os conteúdos do evento.</th>
+                                    <th>Conteúdos mais curtos e mais precisos. Densos e práticos. </th>
+                                </tr>
+                                <tr>
+                                    <th>Tamanho do público</th>
+                                    <th>Limitado ao espaço e ao mercado regional (pessoas podem viajar até o local do evento).</th>
+                                    <th class="text-primary">Limite do espaço físico e potencial de alcançar dezenas de milhares de pessoas virtualmente. Alguns eventos possuem potenciais até maiores.</th>
+                                    <th class="text-primary">Potencial para alcançar dezenas de milhares de pessoas virtualmente. Alguns eventos possuem potencial para alcançar número ainda maior de pessoas, principalmente após o público se acostumar mais com este tipo de evento.</th>
+                                </tr>
+                                <tr>
+                                    <th>Programação</th>
+                                    <th>Oferece formato e programa variados, desde plenária, seminários, sessões simultâneas e paralelas.</th>
+                                    <th>Programação mais complexa para criar que o presencial, uma vez que precisa atender, de forma integrada, os públicos d</th>
+                                    <th>Programação mais flexível quanto aos dias e horários. Possibilidade de várias sessões paralelas com moderadores e públicos de tamanhos distintos.</th>
+                                </tr>
+                                <tr>
+                                    <th>Sustentabilidade</th>
+                                    <th>Maior uso de papel e geração de lixo. Maior emissão de CO2 per capita.</th>
+                                    <th>Geração de resíduos sólidos e uso do papel proporcionalmente menor</th>
+                                    <th class="text-primary">Sem uso de papel. Sem geração de resíduos sólidos.</th>
+                                </tr>
+                                <tr>
+                                    <th>Custo para desenvolvimento</th>
+                                    <th>Demanda maior investimento</th>
+                                    <th>Demanda maior investimento </th>
+                                    <th>Demanda maior investimento nos primeiros eventos. tende a diminuir com o tempo</th>
+                                </tr>
+                                <tr>
+                                    <th>Custo para o participante </th>
+                                    <th>Mais caro </th>
+                                    <th>No presencial igual. No virtual, mais acessível que o presencial. </th>
+                                    <th>Menor custo entre os modelos</th>
+                                </tr>
+                                <tr>
+                                    <th>Estruturas de mobilidade </th>
+                                    <th>Transporte, táxi, estacionamento, transporte público, Uber.</th>
+                                    <th>Transporte, táxi, estacionamento, transporte público, Uber.</th>
+                                    <th>Sem necessidade de mobilidade.</th>
+                                </tr>
+                                <tr>
+                                    <th>Necessidades de estruturas físicas </th>
+                                    <th>Demanda local adequado, com estacionamento, próximo de transporte público, com ar condicionado, mesas, cadeiras, projetores, cenografia etc.</th>
+                                    <th>Idem para o evento presencial. Essencial alta qualidade de vídeo, áudio e conexão. </th>
+                                    <th>Essencial alta qualidade de vídeo, áudio e conexão. Não demanda local específico.</th>
+                                </tr>
+                                <tr>
+                                    <th>Infraestrutura (banheiros, A&B, segurança, …)</th>
+                                    <th>Necessidade de providências e cuidados para que os presentes se sintam bem, alimentados e confortáveis. </th>
+                                    <th>Igual no presencial. Nenhuma necessidade de infraestrutura física no virtual.</th>
+                                    <th>Nenhuma necessidade de infraestrutura física.</th>
+                                </tr>
+                                <tr>
+                                    <th>Networking (entre os participantes)</th>
+                                    <th>Permite interação face a face.</th>
+                                    <th>Permite interação face a face no presencial, mas existem barreiras a serem vencidas na interação entre os virtuais e os presenciais. </th>
+                                    <th>Mais difícil e trabalhoso. Demanda de articulação e de tecnologias. O fato de não ter acontecido o encontro presencial faz com que as pessoas demorem a conectar umas com as outras. Em alguns públicos, acontece o contrário: o virtual as ajuda a se conectar mais rápido.</th>
+                                </tr>
+                                <tr>
+                                    <th>Engajamento</th>
+                                    <th>Permite atividades presenciais, mas também o uso da tecnologia. O engajamento se dá pela própria presencialidade</th>
+                                    <th>Requer mais criatividade e recursos de tecnologia que o presencial, principalmente para engajar os virtuais.</th>
+                                    <th>Estratégias diferentes e novos métodos de engajamento são necessários, uma vez que as pessoas, nos canais virtuais só permanecem em eventos que realmente estão adicionando valor para sua trajetória profissional ou pessoal.</th>
+                                </tr>
+                                <tr>
+                                    <th>Investimento em tecnologia</th>
+                                    <th class="text-primary">Médio</th>
+                                    <th class="text-primary">Alto</th>
+                                    <th class="text-primary">Alto</th>
+                                </tr>
+                                <tr>
+                                    <th>Dados e Analytics</th>
+                                    <th>Para a geração de dados e Analytics é necessário investimento em pesquisas de campo. É mais caro no médio e no longo prazos. </th>
+                                    <th>Melhor estrutura de dados. Fica mais barato no longo prazo.</th>
+                                    <th>Fortemente estruturado em dados. Muito barato nos médio e longo prazos. </th>
+                                </tr>
+                                <tr>
+                                    <th>Potencial de vendas</th>
+                                    <th>Para expositores, o encontro presencial promove mais e melhores vendas</th>
+                                    <th>Para expositores, o encontro presencial promove mais e melhores vendas que no virtual.</th>
+                                    <th>O potencial de vendas fica razoavelmente prejudicado em detrimento da falta do encontro presencial. Showcases virtuais ajudam a diminuir esse problema, mas não se comparam com expositores presenciais.</th>
+                                </tr>
+                                <tr>
+                                    <th>Feiras (potencial para expositores) </th>
+                                    <th>Cenário ideal para expositores</th>
+                                    <th>Cenário ideal para expositores do evento presencial </th>
+                                    <th>É necessária a aplicação de novas tecnologias e métodos para a aproximação de um cenário aceitável. Em determinados eventos, a experiência virtual pode até suplantar o evento presencial, mas é necessário maior investimento em tecnologia.</th>
+                                </tr>
+                                <tr>
+                                    <th>Tempo para desenvolvimento (*)</th>
+                                    <th class="text-primary">De 1 a 6 meses</th>
+                                    <th class="text-primary">De 1 a 6 meses</th>
+                                    <th class="text-primary">De 1 a 2 meses</th>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
 
                 <p class="Texto">
                     (*) Duração média de planejamento, pois flutua dependendo da tipologia, quantidade de participantes, abrangência geográfica, entre outros aspectos.
                 </p>
 
-                <div class="alert alert-secondary" role="alert">
-                    <table class="table table-bordered">
-                        <tbody>
-                            <tr class="tBody">
-                                <th><em>Tamanho do público</em></th>
-                                <th><em>Limitado ao espaço e ao mercado regional (pessoas podem viajar até o local do evento).</em></th>
-                                <th class="text-primary"><em>Limite do espaço físico e potencial de alcançar dezenas de milhares de pessoas virtualmente. Alguns eventos possuem potenciais até maiores.</em></th>
-                                <th class="text-primary"><em>Potencial para alcançar dezenas de milhares de pessoas virtualmente. Alguns eventos possuem potencial para alcançar número ainda maior de pessoas, principalmente após o público se acostumar mais com este tipo de evento.</em></th>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
+                <div class="container">
+                    <div class="table-responsive">
+                        <div class="alert alert-secondary" role="alert">
+                            <table class="table table-bordered">
+                                <tbody>
+                                    <tr class="tBody">
+                                        <th><em>Tamanho do público</em></th>
+                                        <th><em>Limitado ao espaço e ao mercado regional (pessoas podem viajar até o local do evento).</em></th>
+                                        <th class="text-primary"><em>Limite do espaço físico e potencial de alcançar dezenas de milhares de pessoas virtualmente. Alguns eventos possuem potenciais até maiores.</em></th>
+                                        <th class="text-primary"><em>Potencial para alcançar dezenas de milhares de pessoas virtualmente. Alguns eventos possuem potencial para alcançar número ainda maior de pessoas, principalmente após o público se acostumar mais com este tipo de evento.</em></th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
 
-                <p class="Texto">
-                    <strong>A escalabilidade é uma característica exclusiva dos eventos digitais. Diferente do presencial, o “auditório virtual” possui “cadeiras” infinitas!</strong>
-                </p>
+                        <p class="Texto">
+                            <strong>A escalabilidade é uma característica exclusiva dos eventos digitais. Diferente do presencial, o “auditório virtual” possui “cadeiras” infinitas!</strong>
+                        </p>
 
-                <p class="Texto">
-                    Um evento digital pode ser criado para atender o público regional, nacional ou internacional. O esforço de organização e divulgação depende dessa meta de público.
-                </p>
+                        <p class="Texto">
+                            Um evento digital pode ser criado para atender o público regional, nacional ou internacional. O esforço de organização e divulgação depende dessa meta de público.
+                        </p>
 
-                <div class="text-center">
-                    <p class="TituloFigura"><strong>Figura 20:</strong></p>
-                    <a href="imagens/Figura20.png" data-toggle="lightbox">
-                        <img class="img-fluid" src="imagens/Figura20.png" alt="Alt_da_Imagem">
-                    </a>
-                    <p class="FonteFigura"><a href="https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.2986234:1599569579/WhatsApp%20Image%202020-09-01%20at%2016.17.13.jpeg?f=default&$p$f=1fd70d4" target="_blank">Link da imagem</a></p>
-                </div>
-                <hr>
+                        <div class="text-center">
+                            <p class="TituloFigura"><strong>Figura 20:</strong></p>
+                            <a href="imagens/Figura20.png" data-toggle="lightbox">
+                                <img class="img-fluid" src="imagens/Figura20.png" alt="Alt_da_Imagem">
+                            </a>
+                            <p class="FonteFigura"><a href="https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.2986234:1599569579/WhatsApp%20Image%202020-09-01%20at%2016.17.13.jpeg?f=default&$p$f=1fd70d4" target="_blank">Link da imagem</a></p>
+                        </div>
+                        <hr>
 
-                <p class="Texto">
-                    Esse estudo deve ser realizado com atenção, pois apesar do formato do evento ser o mesmo, o custo e o esforço de divulgação aumentam consideravelmente.
-                </p>
+                        <p class="Texto">
+                            Esse estudo deve ser realizado com atenção, pois apesar do formato do evento ser o mesmo, o custo e o esforço de divulgação aumentam consideravelmente.
+                        </p>
 
-                <p class="Texto">
-                    Após o esboço do projeto você será capaz de refletir e <strong>justificar a realização de um processo licitatório ou dispensa de licitação</strong> para custeio dos fornecedores ou ajuda na organização e divulgação do evento digital.
-                </p>
+                        <p class="Texto">
+                            Após o esboço do projeto você será capaz de refletir e <strong>justificar a realização de um processo licitatório ou dispensa de licitação</strong> para custeio dos fornecedores ou ajuda na organização e divulgação do evento digital.
+                        </p>
 
-                <div class="alert alert-secondary" role="alert">
-                    <table class="table table-bordered">
-                        <tbody>
-                            <tr class="tBody">
-                                <th><em>Sustentabilidade</em></th>
-                                <th><em>Maior uso de papel e geração de lixo. Maior emissão de CO2 percapita.</em></th>
-                                <th><em>Geração de resíduos sólidos e uso do papel proporcionalmente menor.</em></th>
-                                <th class="text-primary"><em>Sem uso de papel. Sem geração de resíduos sólidos.</em></th>
-                            </tr>
-                        </tbody>
-                    </table>
+                        <div class="alert alert-secondary" role="alert">
+                            <table class="table table-bordered">
+                                <tbody>
+                                    <tr class="tBody">
+                                        <th><em>Sustentabilidade</em></th>
+                                        <th><em>Maior uso de papel e geração de lixo. Maior emissão de CO2 percapita.</em></th>
+                                        <th><em>Geração de resíduos sólidos e uso do papel proporcionalmente menor.</em></th>
+                                        <th class="text-primary"><em>Sem uso de papel. Sem geração de resíduos sólidos.</em></th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
                 </div>
 
 
@@ -582,23 +590,28 @@ include('layout/header.php');
                     Apesar da considerável redução de lixo e resíduos, sugerimos não utilizar afirmações absolutas nas justificativas de eventos digitais, pois sempre há geração de resíduos. Um estúdio, por exemplo, pode utilizar geradores de energia que funcionam à base de combustível fóssil.
                 </p>
 
-                <div class="alert alert-secondary" role="alert">
-                    <table class="table table-bordered">
-                        <tbody>
-                            <tr class="tBody">
-                                <th><em>Investimento em tecnologia</em></th>
-                                <th><em>Médio.</em></th>
-                                <th><em>Alto.</em></th>
-                                <th class="text-primary"><em>Alto.</em></th>
-                            </tr>
-                            <tr class="tBody">
-                                <th><em>Tempo para desenvolvimento (*)</em></th>
-                                <th class="text-primary"><em>De 1 a 6 meses.</em></th>
-                                <th class="text-primary"><em>De 1 a 6 meses.</em></th>
-                                <th class="text-primary"><em>De 1 a 2 meses.</em></th>
-                            </tr>
-                        </tbody>
-                    </table>
+
+                <div class="container">
+                    <div class="table-responsive">
+                        <div class="alert alert-secondary" role="alert">
+                            <table class="table table-bordered">
+                                <tbody>
+                                    <tr class="tBody">
+                                        <th><em>Investimento em tecnologia</em></th>
+                                        <th><em>Médio.</em></th>
+                                        <th><em>Alto.</em></th>
+                                        <th class="text-primary"><em>Alto.</em></th>
+                                    </tr>
+                                    <tr class="tBody">
+                                        <th><em>Tempo para desenvolvimento (*)</em></th>
+                                        <th class="text-primary"><em>De 1 a 6 meses.</em></th>
+                                        <th class="text-primary"><em>De 1 a 6 meses.</em></th>
+                                        <th class="text-primary"><em>De 1 a 2 meses.</em></th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
                 </div>
 
                 <p class="Texto">
@@ -627,7 +640,7 @@ include('layout/header.php');
                     </li> <br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                        ED2020 Eventos Ditiais. Midia Code, 2020. Disponível em:<a href="https://mkt.midiacode.com/eventosdigitais" target="_blank"> https://mkt.midiacode.com/eventosdigitais</a>.
+                        ED2020 Eventos Ditiais. Midia Code, 2020. Disponível em:<a href="https://mkt.midiacode.com/eventosdigitais" target="_blank"> https://mkt.midiacode.com /eventosdigitais</a>.
                     </li><br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
@@ -636,27 +649,27 @@ include('layout/header.php');
 
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                        LAÇOS. Instagram, 2020. Disponível em: <a href="https://www.instagram.com/lacosevento" target="_blank"> https://www.instagram.com/lacosevento </a>.
+                        LAÇOS. Instagram, 2020. Disponível em: <a href="https://www.instagram.com/lacosevento" target="_blank"> https://www.instagram.com /lacosevento </a>.
                     </li><br>
 
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                        Projeto de professora da REME de Três Lagoas é apresentado em Programa global Encontro com Fátima Bernardes. Prefeitura Municipal de Três Lagoas, 2020. Disponível em: <a href="http://www.treslagoas.ms.gov.br/projeto-de-professora-da-reme-de-tres-lagoas-e-apresentado-em-programa-global-encontro-com-fatima-bernardes" target="_blank"> http://www.treslagoas.ms.gov.br/projeto-de-professora-da-reme-de-tres-lagoas-e-apresentado-em-programa-global-encontro-com-fatima-bernardes</a> .
+                        Projeto de professora da REME de Três Lagoas é apresentado em Programa global Encontro com Fátima Bernardes. Prefeitura Municipal de Três Lagoas, 2020. Disponível em: <a href="http://www.treslagoas.ms.gov.br/projeto-de-professora-da-reme-de-tres-lagoas-e-apresentado-em-programa-global-encontro-com-fatima-bernardes" target="_blank"> http://www.treslagoas.ms.gov.br /projeto-de-professora-da-reme-de-tres-lagoas -e-apresentado-em-programa-global-encontro -com-fatima-bernardes</a> .
                     </li><br>
 
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                        MARTIN, Vanessa. EVENTOS HÍBRIDOS E DIGITAIS: Você está preparado?. Portal Eventos, 2020. Disponível em:<a href=" https://www.revistaeventos.com.br/blog/Eventos-de-sucesso!/EVENTOS-HIBRIDOS-E-DIGITAIS:-Voce-esta-preparado/49584" target="_blank"> https://www.revistaeventos.com.br/blog/Eventos-de-sucesso!/EVENTOS-HIBRIDOS-E-DIGITAIS:-Voce-esta-preparado/49584</a>.
+                        MARTIN, Vanessa. EVENTOS HÍBRIDOS E DIGITAIS: Você está preparado?. Portal Eventos, 2020. Disponível em:<a href=" https://www.revistaeventos.com.br/blog/Eventos-de-sucesso!/EVENTOS-HIBRIDOS-E-DIGITAIS:-Voce-esta-preparado/49584" target="_blank"> https://www.revistaeventos.com.br /blog/Eventos-de-sucesso!/EVENTOS-HIBRIDOS -E-DIGITAIS:-Voce-esta-preparado /49584</a>.
                     </li><br>
 
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                        TEIZEN, Beatrice. Evento híbrido da Renase marca nova fase da agência. Panrotas corporativo, 2020. Disponível em: <a href="https://www.panrotas.com.br/viagens-corporativas/eventos/2020/07/evento-hibrido-da-renase-marca-nova-fase-da-agencia_174925.html" target="_blank"> https://www.panrotas.com.br/viagens-corporativas/eventos/2020/07/evento-hibrido-da-renase-marca-nova-fase-da-agencia_174925.html</a>.
+                        TEIZEN, Beatrice. Evento híbrido da Renase marca nova fase da agência. Panrotas corporativo, 2020. Disponível em: <a href="https://www.panrotas.com.br/viagens-corporativas/eventos/2020/07/evento-hibrido-da-renase-marca-nova-fase-da-agencia_174925.html" target="_blank"> https://www.panrotas.com.b r/viagens-corporativas/eventos/2020/07 /evento-hibrido-da-renase-marca-nova- fase-da-agencia_174925.html</a>.
                     </li><br>
 
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                        LAYMAN, Madison. Virtual Events in 2020: The Ultimate Guide. cvent, 2020. Disponível em: <a href="https://www.cvent.com/en/blog/events/virtual-events" target="_blank"> https://www.cvent.com/en/blog/events/virtual-events</a>.
+                        LAYMAN, Madison. Virtual Events in 2020: The Ultimate Guide. cvent, 2020. Disponível em: <a href="https://www.cvent.com/en/blog/events/virtual-events" target="_blank"> https://www.cvent.com/en/blog /events/virtual-events</a>.
                     </li><br>
 
                     <li>
@@ -666,7 +679,7 @@ include('layout/header.php');
 
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                        Endless Event. Virtual Event - Planning Checklist. Disponível em: <a href="https://offers.helloendless.com/virtual-event-planning-checklist" target="_blank">https://offers.helloendless.com/virtual-event-planning-checklist</a>.
+                        Endless Event. Virtual Event - Planning Checklist. Disponível em: <a href="https://offers.helloendless.com/virtual-event-planning-checklist" target="_blank">https://offers.helloendless.com /virtual-event-planning-checklist</a>.
                     </li><br>
 
                     <li>
@@ -681,7 +694,7 @@ include('layout/header.php');
                 </ul>
 
                 <div class="text-center">
-                    <a href="Topico02.php" type="button" class="btn btn-outline-success btn-sm">Página anterior</a>
+                    <a href="Topico01.php" type="button" class="btn btn-outline-success btn-sm">Página anterior</a>
                     <a href="Topico03.php" type="button" class="btn btn-outline-success btn-sm">Próxima Página</a>
                 </div>
 

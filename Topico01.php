@@ -43,7 +43,7 @@ include('layout/header.php');
                     <a href="imagens/Figura01.png" data-toggle="lightbox" data-footer="Trilha - Primeiro passo">
                         <img class="img-fluid" src="imagens/Figura01.png" alt="Alt_da_Imagem">
                     </a>
-                    <p class="FonteFigura"><a href="https://cdn.pixabay.com/photo/2017/05/26/20/18/marathon-2346948_960_720.jpg " target="_blank">https://cdn.pixabay.com/photo/2017/05/26/20/18/marathon-2346948_960_720.jpg </a></p>
+                    <p class="FonteFigura"><a href="https://cdn.pixabay.com/photo/2017/05/26/20/18/marathon-2346948_960_720.jpg " target="_blank">https://cdn.pixabay.com /photo/2017/05/26/20/18/ marathon-2346948_960_720.jpg </a></p>
                 </div>
                 <hr>
 
@@ -64,7 +64,7 @@ include('layout/header.php');
                     <a href="imagens/Figura02.png" data-toggle="lightbox" data-footer="Ingredientes de uma receita">
                         <img class="img-fluid" src="imagens/Figura02.png" alt="Alt_da_Imagem">
                     </a>
-                    <p class="FonteFigura"><a href="https://cdn.pixabay.com/photo/2017/12/29/19/37/food-3048440_960_720.jpg " target="_blank">https://cdn.pixabay.com/photo/2017/12/29/19/37/food-3048440_960_720.jpg </a></p>
+                    <p class="FonteFigura"><a href="https://cdn.pixabay.com/photo/2017/12/29/19/37/food-3048440_960_720.jpg " target="_blank">https://cdn.pixabay.com/photo/2017/12/29/19/37 /food-3048440_960_720.jpg </a></p>
                 </div>
                 <hr>
 
@@ -87,7 +87,7 @@ include('layout/header.php');
                     <a href="imagens/Figura03.png" data-toggle="lightbox" data-footer="Virtual learning">
                         <img class="img-fluid" src="imagens/Figura03.png" alt="Alt_da_Imagem">
                     </a>
-                    <p class="FonteFigura"><a href="https://cdn.pixabay.com/photo/2020/09/07/00/39/virtual-learning-5550480_960_720.jpg  " target="_blank">https://cdn.pixabay.com/photo/2020/09/07/00/39/virtual-learning-5550480_960_720.jpg </a></p>
+                    <p class="FonteFigura"><a href="https://cdn.pixabay.com/photo/2020/09/07/00/39/virtual-learning-5550480_960_720.jpg  " target="_blank">https://cdn.pixabay.com /photo/2020/09/07/00/39/virtual-learning-5550480_ 960_720.jpg </a></p>
                 </div>
                 <hr>
 
@@ -169,7 +169,7 @@ include('layout/header.php');
                     <a href="imagens/Figura09.png" data-toggle="lightbox" data-footer="Tomada de decisão dos alunos">
                         <img class="img-fluid" src="imagens/Figura09.png" alt="Alt_da_Imagem">
                     </a>
-                    <p class="FonteFigura"><a href="https://www.thinkwithgoogle.com/_qs/images/A8lkeLmuuJVsAFHgRFFQJZU9qcg=/47976/width-1000/twg_google_academy_educacao_pos_covid_graphic3.png" target="_blank">https://www.thinkwithgoogle.com/_qs/images/A8lkeLmuuJVsAFHgRFFQJZU9qcg=/47976/width-1000/twg_google_academy_educacao_pos_covid_graphic3.png</a></p>
+                    <p class="FonteFigura"><a href="https://www.thinkwithgoogle.com/_qs/images/A8lkeLmuuJVsAFHgRFFQJZU9qcg=/47976/width-1000/twg_google_academy_educacao_pos_covid_graphic3.png" target="_blank">https://www.thinkwithgoogle.com /_qs/images/ A8lkeLmuuJVsAFHgRFFQJZU9qcg=/47976/ width-1000/twg_google_academy_educacao_ pos_covid_graphic3.png</a></p>
                 </div>
                 <hr>
 
@@ -178,7 +178,7 @@ include('layout/header.php');
                     <a href="imagens/Figura10.png" data-toggle="lightbox" data-footer="Importância dos atributos na sua decisão">
                         <img class="img-fluid" src="imagens/Figura10.png" alt="Alt_da_Imagem">
                     </a>
-                    <p class="FonteFigura"><a href="https://www.thinkwithgoogle.com/_qs/images/t8ZaNKVsJ7JE9Lxg1HAIcpFkxhA=/47975/width-1000/twg_google_academy_educacao_pos_covid_graphic2.png" target="_blank">https://www.thinkwithgoogle.com/_qs/images/t8ZaNKVsJ7JE9Lxg1HAIcpFkxhA=/47975/width-1000/twg_google_academy_educacao_pos_covid_graphic2.png</a></p>
+                    <p class="FonteFigura"><a href="https://www.thinkwithgoogle.com/_qs/images/t8ZaNKVsJ7JE9Lxg1HAIcpFkxhA=/47975/width-1000/twg_google_academy_educacao_pos_covid_graphic2.png" target="_blank">https://www.thinkwithgoogle.com/_qs/images /t8ZaNKVsJ7JE9Lxg1HAIcpFkxhA= /47975/width-1000/twg_google_academy_educacao_pos_ covid_graphic2.png</a></p>
                 </div>
                 <hr>
 
@@ -192,10 +192,10 @@ include('layout/header.php');
 
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 11:</strong></p>
-                    <a href="imagens/Figura11.png" data-toggle="lightbox">
+                    <a href="/imagens/Figura11.png" data-toggle="lightbox">
                         <img class="img-fluid" src="imagens/Figura11.png" alt="Alt_da_Imagem">
                     </a>
-                    <p class="FonteFigura"><a href="https://cdn.pixabay.com/photo/2018/05/01/14/20/patch-3365702_960_720.jpg" target="_blank">https://cdn.pixabay.com/photo/2018/05/01/14/20/patch-3365702_960_720.jpg </a></p>
+                    <p class="FonteFigura"><a href="https://cdn.pixabay.com/photo/2018/05/01/14/20/patch-3365702_960_720.jpg" target="_blank">https://cdn.pixabay.com/photo/2018/05/01 /14/20/patch-3365702_960_720.jpg </a></p>
                 </div>
                 <hr>
 
@@ -253,29 +253,29 @@ include('layout/header.php');
                     <br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                        BERMÚDEZ, Ana Carla. Pela 1ª vez, vagas no ensino superior a distância superam as no presencial. UOL, 2019. Disponível em: <a href="https://educacao.uol.com.br/noticias/2019/09/19/pela-1-vez-vagas-no-ensino-superior-a-distancia-superam-as-no-presencial.html" target="_blank">https://educacao.uol.com.br/noticias/2019/09/19/pela-1-vez-vagas-no-ensino-superior-a-distancia-superam-as-no-presencial</a>.
+                        BERMÚDEZ, Ana Carla. Pela 1ª vez, vagas no ensino superior a distância superam as no presencial. UOL, 2019. Disponível em: <a href="https://educacao.uol.com.br/noticias/2019/09/19/pela-1-vez-vagas-no-ensino-superior-a-distancia-superam-as-no-presencial.html" target="_blank">https://educacao.uol.com.br /noticias/2019/09/19/pela-1-vez-vagas-no-ensino-superior -a-distancia-superam-as-no-presencial</a>.
                     </li> <br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                        ABREU, Leandro. 53 estatísticas de Marketing de Conteúdo para você se convencer a investir nessa estratégia agora mesmo. Rock Content, 2020. Disponível em: <a href="https://rockcontent.com/br/blog/estatisticas-marketing-de-conteudo" target="_blank"> https://rockcontent.com/br/blog/estatisticas-marketing-de-conteudo
+                        ABREU, Leandro. 53 estatísticas de Marketing de Conteúdo para você se convencer a investir nessa estratégia agora mesmo. Rock Content, 2020. Disponível em: <a href="https://rockcontent.com/br/blog/estatisticas-marketing-de-conteudo" target="_blank"> https://rockcontent.com/br/blog/ estatisticas-marketing-de-conteudo
                         </a>.
                     </li> <br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                        LONGO, Walter. Bem-vindos ao mundo pós-digital. Galileu, 2015. Disponível em: <a href="https://revistagalileu.globo.com/Revista/noticia/2015/01/bem-vindos-ao-mundo-pos-digital.html" target="_blank"> https://revistagalileu.globo.com/Revista/noticia/2015/01/bem-vindos-ao-mundo-pos-digital.html </a>.
+                        LONGO, Walter. Bem-vindos ao mundo pós-digital. Galileu, 2015. Disponível em: <a href="https://revistagalileu.globo.com/Revista/noticia/2015/01/bem-vindos-ao-mundo-pos-digital.html" target="_blank"> https://revistagalileu.globo.com /Revista/ noticia/2015/01/bem-vindos-ao-mundo- pos-digital.html </a>.
                     </li> <br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                        Pesquisa de Curso a Distância. Google Analytics, 2020. Disponível em: <a href="https://trends.google.com.br/trends/explore?date=today%205-y&geo=BR&q=curso%20a%20dist%C3%A2ncia" target="_blank"> https://trends.google.com.br/trends/explore?date=today%205-y&geo=BR&q=curso%20a%20dist%C3%A2ncia </a>.
+                        Pesquisa de Curso a Distância. Google Analytics, 2020. Disponível em: <a href="https://trends.google.com.br/trends/explore?date=today%205-y&geo=BR&q=curso%20a%20dist%C3%A2ncia" target="_blank"> https://trends.google.com.br /trends/explore ?date=today%205-y&geo=BR&q=curso% 20a%20dist%C3%A2ncia </a>.
                     </li>
                     <br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                        NPASQUALETTI, Mariana; NAVARRETE, Renata. Google Academy: o mercado de educação no Brasil pós-COVID-19. Think with Google, 2020. Disponível em: <a href="https://www.thinkwithgoogle.com/intl/pt-br/futuro-do-marketing/transformacao-digital/google-academy-mercado-de-educacao-no-brasil-pos-covid" target="_blank"> https://www.thinkwithgoogle.com/intl/pt-br/futuro-do-marketing/transformacao-digital/google-academy-mercado-de-educacao-no-brasil-pos-covid/</a>.
+                        NPASQUALETTI, Mariana; NAVARRETE, Renata. Google Academy: o mercado de educação no Brasil pós-COVID-19. Think with Google, 2020. Disponível em: <a href="https://www.thinkwithgoogle.com/intl/pt-br/futuro-do-marketing/transformacao-digital/google-academy-mercado-de-educacao-no-brasil-pos-covid" target="_blank"> https://www.thinkwithgoogle.com /intl/pt-br /futuro-do-marketing/transformacao-digital/google-academy -mercado-de-educacao-no-brasil-pos-covid/</a>.
                     </li> <br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                        LAYMAN, Madison. Virtual Events in 2020: The Ultimate Guide. cvent, 2020. Disponível em: <a href="https://www.cvent.com/en/blog/events/virtual-events." target="_blank"> https://www.cvent.com/en/blog/events/virtual-events </a>.
+                        LAYMAN, Madison. Virtual Events in 2020: The Ultimate Guide. cvent, 2020. Disponível em: <a href="https://www.cvent.com/en/blog/events/virtual-events." target="_blank"> https://www.cvent.com /en/blog/events/virtual-events </a>.
                     </li> <br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
@@ -288,33 +288,30 @@ include('layout/header.php');
                     <br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                        MAGGESSI, Luiza. A segunda revolução em vídeo já começou. Meio Mensagem, 2019. Disponível em: <a href="https://www.meioemensagem.com.br/home/opiniao/2019/05/27/a-segunda-revolucao-em-video-ja-comecou.html" target="_blank"> https://www.meioemensagem.com.br/home/opiniao/2019/05/27/a-segunda-revolucao-em-video-ja-comecou.html</a>.
+                        MAGGESSI, Luiza. A segunda revolução em vídeo já começou. Meio Mensagem, 2019. Disponível em: <a href="https://www.meioemensagem.com.br/home/opiniao/2019/05/27/a-segunda-revolucao-em-video-ja-comecou.html" target="_blank"> https://www.meioemensagem.com.br /home/opiniao /2019/05/27/a-segunda-revolucao-em- video-ja-comecou.html</a>.
                     </li>
                     <br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                        TIC Domicílios: Análises e Apresentações. CETIC BR, 2007 a 2019. Mapear o acesso às TIC nos domicílios urbanos e rurais do país. Disponível em: <a href="https://cetic.br/pt/pesquisa/domicilios/analises/" target="_blank"> https://cetic.br/pt/pesquisa/domicilios/analises/</a>.
+                        TIC Domicílios: Análises e Apresentações. CETIC BR, 2007 a 2019. Mapear o acesso às TIC nos domicílios urbanos e rurais do país. Disponível em: <a href="https://cetic.br/pt/pesquisa/domicilios/analises/" target="_blank"> https://cetic.br/pt/pesquisa/ domicilios/analises/</a>.
                     </li> <br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                        KAFKA, Peter. You can watch Netflix on any screen you want, but you’re probably watching it on a TV. Vox, 2018. Disponível em: <a href="https://www.vox.com/2018/3/7/17094610/netflix-70-percent-tv-viewing-statistics" target="_blank"> https://www.vox.com/2018/3/7/17094610/netflix-70-percent-tv-viewing-statistics </a>.
+                        KAFKA, Peter. You can watch Netflix on any screen you want, but you’re probably watching it on a TV. Vox, 2018. Disponível em: <a href="https://www.vox.com/2018/3/7/17094610/netflix-70-percent-tv-viewing-statistics" target="_blank"> https://www.vox.com/2018/3/7/ 17094610/netflix-70-percent-tv- viewing-statistics </a>.
                     </li>
                     <br>
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                        OLIVEIRA, Felipe. 845 mil telefones passam a ter ligações de telemarketing bloqueadas em um dia. Folha de São Paulo, São Paulo, 19 de jul. de 2019. Disponível em: <a href="https://www1.folha.uol.com.br/mercado/2019/07/em-12-horas-240-mil-consumidores-bloqueiam-ligacoes-de-telemarketing.shtml" target="_blank"> https://www1.folha.uol.com.br/mercado/2019/07/em-12-horas-240-mil-consumidores-bloqueiam-ligacoes-de-telemarketing.shtml</a>.
+                        OLIVEIRA, Felipe. 845 mil telefones passam a ter ligações de telemarketing bloqueadas em um dia. Folha de São Paulo, São Paulo, 19 de jul. de 2019. Disponível em: <a href="https://www1.folha.uol.com.br/mercado/2019/07/em-12-horas-240-mil-consumidores-bloqueiam-ligacoes-de-telemarketing.shtml" target="_blank"> https://www1.folha.uol.com.br /mercado/2019/07 /em-12-horas-240-mil-consumidores-bloqueiam-ligacoes-de -telemarketing.shtml</a>.
                     </li> <br>
 
                     <li>
                         <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                        Google Search Statistics. Internet Lives States, ano. Disponível em: <a href="https://www.internetlivestats.com/google-search-statistics/" target="_blank"> https://www.internetlivestats.com/google-search-statistics/.</a>
+                        Google Search Statistics. Internet Lives States, ano. Disponível em: <a href="https://www.internetlivestats.com/google-search-statistics/" target="_blank"> https://www.internetlivestats.com /google-search-statistics/.</a>
                     </li>
                     <br><br>
 
-                </ul>
-
-                <div class="text-center">
-                    <a href="Topico01.php" type="button" class="btn btn-outline-success btn-sm">Página anterior</a>
+                </ul>               
                     <a href="Topico02.php" type="button" class="btn btn-outline-success btn-sm">Próxima Página</a>
                 </div>
 

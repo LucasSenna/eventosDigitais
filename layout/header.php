@@ -9,6 +9,8 @@
     <link rel="stylesheet" href="assets/css/Ux.css">
     <link rel="stylesheet" href="assets/css/callout.css">
 
+    <script type="text/javascript" src="/assets/js/jquery-3.3.1.js"></script>
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/js/all.min.js"></script>
 
@@ -23,7 +25,6 @@
 
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
 
     <link href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css" rel="stylesheet">
 
