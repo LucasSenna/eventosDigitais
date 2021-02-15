@@ -49,7 +49,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 21:</strong></p>
                     <a href="imagens/Figura21.png" data-toggle="lightbox">
-                        <img class="img-fluid" src="imagens/Figura21.png" alt="Alt_da_Imagem">
+                        <img class="img-fluid wow fadeInDown" src="imagens/Figura21.png" alt="Alt_da_Imagem">
                     </a>
                     <p class="FonteFigura"><a href="https://midiamax.com.br/wp-content/uploads/2020/04/monitor-moderncomm_2f6782a.png" target="_blank">https://midiamax.com.br/wp-content/uploads/2020/04/monitor-moderncomm_2f6782a.png </a></p>
                 </div>
@@ -256,7 +256,7 @@ include('layout/header.php');
                     <div class="text-center">
                         <p class="TituloFigura"><strong>Figura 23:</strong></p>
                         <a href="imagens/Figura23.png" data-toggle="lightbox">
-                            <img class="img-fluid" src="imagens/Figura23.png" alt="Alt_da_Imagem">
+                            <img class="img-fluid wow fadeIn" src="imagens/Figura23.png" alt="Alt_da_Imagem">
                         </a>
                         <p class="FonteFigura"><a href="https://1.bp.blogspot.com/-Z7FRm7xABcU/XqBwsCYQ0VI/AAAAAAAAIy8/ssVVqLMKx90LbFpjaRbnThxS5_kJQvXcgCLcBGAsYHQ/s640/present%2Ba%2Btab%2Bmeet.gif  " target="_blank">https://1.bp.blogspot.com/-Z7FRm7xABcU/XqBwsCYQ0VI /AAAAAAAAIy8 /ssVVqLMKx90LbFpjaRbnThxS5_ kJQvXcgCLcBGAsYHQ /s640/present%2Ba%2Btab%2Bmeet.gif </a></p>
                     </div>
@@ -277,7 +277,7 @@ include('layout/header.php');
                     <div class="text-center">
                         <p class="TituloFigura"><strong>Figura 24:</strong></p>
                         <a href="imagens/Figura24.png" data-toggle="lightbox">
-                            <img class="img-fluid" src="imagens/Figura24.png" alt="Alt_da_Imagem">
+                            <img class="img-fluid wow fadeInUp" src="imagens/Figura24.png" alt="Alt_da_Imagem">
                         </a>
                     </div><br><br>
 
@@ -536,7 +536,7 @@ include('layout/header.php');
                     <div class="text-center">
                         <p class="TituloFigura"><strong>Figura 24:</strong></p>
                         <a href="imagens/Figura24.png" data-toggle="lightbox">
-                            <img class="img-fluid" src="imagens/Figura24.png" alt="Alt_da_Imagem">
+                            <img class="img-fluid wow fadeIn" src="imagens/Figura24.png" alt="Alt_da_Imagem">
                         </a>
                         <p class="FonteFigura"><a href="https://cdn.clicksign.com/assets/home/header/application-mockup-334bdeaab40e6efde573e8d458814fe7faee491006de1e0b1cd9053834adab4a.png " target="_blank">Link da img</a></p>
                     </div>
@@ -650,18 +650,13 @@ include('layout/header.php');
                     </p>
 
                     <div class="container">
-                        <div class="row">
-                            <div class="col-4">
-                                <div class="alert alert-secondary" role="alert">
-                                    <p class="SubSubTitulo CorLaranja">
-                                        <strong>Vamos soltar a imaginação?</strong>
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="col">
-                            </div>
+                        <div class="alert alert-secondary" role="alert">
+                            <p class="SubSubTitulo CorLaranja text-center">
+                                <strong>Vamos soltar a imaginação?</strong>
+                            </p>
                         </div>
                     </div>
+
 
                     <div class="card">
                         <div class="card-body bg-light">

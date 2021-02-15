@@ -46,7 +46,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 27:</strong></p>
                     <a href="imagens/Figura27.png" data-toggle="lightbox">
-                        <img class="img-fluid" src="imagens/Figura27.png" alt="Alt_da_Imagem">
+                        <img class="img-fluid wow fadeInDown" src="imagens/Figura27.png" alt="Alt_da_Imagem">
                     </a>
                     <p class="FonteFigura"><a href="https://blog.aaainovacao.com.br/wp-content/uploads/2019/09/Rock-in-Rio-Academy.jpg  " target="_blank">Link da img</a></p>
                 </div>
@@ -247,6 +247,7 @@ include('layout/header.php');
                         </table>
                     </div>
                 </div>
+                <hr>
 
                 <p class="Texto">
                     Muita coisa, não é mesmo? Ainda bem que não é preciso ter na ponta da língua todos os conceitos, afinal, esse resumo foi feito para você consultar as tipologias durante a sua reunião de criação de evento.
@@ -255,6 +256,7 @@ include('layout/header.php');
                 <p class="Texto">
                     Encerramos aqui o curso de Eventos Digitais como Ferramenta de Educação. Gostou do conteúdo?
                 </p>
+                <hr>
 
                 <p class="Texto">
                     <strong>Agora chegou a hora de

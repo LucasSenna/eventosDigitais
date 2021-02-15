@@ -623,7 +623,6 @@
                   e.querySelectorAll("a#" + b + "+*").length ||
                     y.push(".#.+[+~]");
               }),
-              // COMENTADO PARA IMAGEM FICAR ABRINDO 
               ue(function (e) {
                 e.innerHTML =
                   "<a href='' disabled='disabled'></a><select disabled='disabled'><option/></select>";

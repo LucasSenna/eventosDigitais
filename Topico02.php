@@ -121,7 +121,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 13:</strong></p>
                     <a href="imagens/Figura13.png" data-toggle="lightbox">
-                        <img class="img-fluid" src="imagens/Figura13.png" alt="Alt_da_Imagem">
+                        <img class="img-fluid wow fadeInDown" src="imagens/Figura13.png" alt="Alt_da_Imagem">
                     </a>
                     <p class="FonteFigura"><a href="https://cdn.pixabay.com/photo/2020/06/17/10/09/convention-5308938_960_720.jpg" target="_blank">Link da img </a></p>
                 </div>
@@ -143,7 +143,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 14:</strong></p>
                     <a href="imagens/Figura14.png" data-toggle="lightbox">
-                        <img class="img-fluid" src="imagens/Figura14.png" alt="Alt_da_Imagem">
+                        <img class="img-fluid wow fadeIn" src="imagens/Figura14.png" alt="Alt_da_Imagem">
                     </a>
                     <p class="FonteFigura"><a href="https://cdn.pixabay.com/photo/2014/12/18/22/39/auditorium-572776_960_720.jpg" target="_blank">Link da img</a></p>
                 </div>
@@ -191,7 +191,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 15:</strong></p>
                     <a href="imagens/Figura15.png" data-toggle="lightbox">
-                        <img class="img-fluid" src="imagens/Figura15.png" alt="Alt_da_Imagem">
+                        <img class="img-fluid wow fadeInRight" src="imagens/Figura15.png" alt="Alt_da_Imagem">
                     </a>
                     <p class="FonteFigura"><a href="https://cdn.pixabay.com/photo/2020/06/08/16/19/woman-5275027_960_720.jpg" target="_blank">Link da img</a></p>
                 </div>
@@ -230,7 +230,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 16:</strong></p>
                     <a href="imagens/Figura16.png" data-toggle="lightbox">
-                        <img class="img-fluid" src="imagens/Figura16.png" alt="Alt_da_Imagem">
+                        <img class="img-fluid wow fadeIn" src="imagens/Figura16.png" alt="Alt_da_Imagem">
                     </a>
                     <p class="FonteFigura"><a href="https://lh3.googleusercontent.com/proxy/v9-K-BX-sRx-3RDgKvXa4Gw4EdU3CRMzw9A-6R2c3XZz8c-Pf0HURE0MCVEk12A6swY7euHtb0KGtjjLjsK3_LxZHakiKveGLcpH-IEv1I63zfUufq6k" target="_blank">Link da img</a></p>
                 </div>
@@ -272,7 +272,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 17:</strong></p>
                     <a href="imagens/Figura17.png" data-toggle="lightbox">
-                        <img class="img-fluid" src="imagens/Figura17.png" alt="Alt_da_Imagem">
+                        <img class="img-fluid wow fadeInLeft" src="imagens/Figura17.png" alt="Alt_da_Imagem">
                     </a>
                     <p class="FonteFigura"><a href="https://cdn.panrotas.com.br/portal-panrotas-statics/media-files-cache/302304/01d1d1a305363b751d5e65fb5b405124renase792/0,78,2560,1528/1206,720,0.16/0/default.jpg" target="_blank">Link da img</a></p>
                 </div>
@@ -368,7 +368,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 18:</strong></p>
                     <a href="imagens/Figura18.png" data-toggle="lightbox">
-                        <img class="img-fluid" src="imagens/Figura18.png" alt="Alt_da_Imagem">
+                        <img class="img-fluid wow fadeInDown" src="imagens/Figura18.png" alt="Alt_da_Imagem">
                     </a>
                     <p class="FonteFigura"><a href="https://noomis-files-hmg.s3.amazonaws.com/content/b3ca6f10-eeae-11ea-8409-b931ae9bc00f.png" target="_blank">https://noomis-files-hmg.s3.amazonaws.com/content/b3ca6f10-eeae-11ea-8409-b931ae9bc00f.png</a></p>
                 </div>
@@ -397,7 +397,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 19:</strong></p>
                     <a href="imagens/Figura19.png" data-toggle="lightbox">
-                        <img class="img-fluid" src="imagens/Figura19.png" alt="Alt_da_Imagem">
+                        <img class="img-fluid wow fadeIn" src="imagens/Figura19.png" alt="Alt_da_Imagem">
                     </a>
                     <p class="FonteFigura"><a href="https://www.tudopraradios.com.br/wp-content/uploads/2020/05/webnab_edit.jpg" target="_blank">https://www.tudopraradios.com.br/wp-content/uploads/2020/05/webnab_edit.jpg</a></p>
                 </div>
@@ -556,7 +556,7 @@ include('layout/header.php');
                         <div class="text-center">
                             <p class="TituloFigura"><strong>Figura 20:</strong></p>
                             <a href="imagens/Figura20.png" data-toggle="lightbox">
-                                <img class="img-fluid" src="imagens/Figura20.png" alt="Alt_da_Imagem">
+                                <img class="img-fluid wow fadeIn" src="imagens/Figura20.png" alt="Alt_da_Imagem">
                             </a>
                             <p class="FonteFigura"><a href="https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.2986234:1599569579/WhatsApp%20Image%202020-09-01%20at%2016.17.13.jpeg?f=default&$p$f=1fd70d4" target="_blank">Link da imagem</a></p>
                         </div>

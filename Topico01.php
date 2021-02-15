@@ -41,12 +41,13 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 1:</strong></p>
                     <a href="imagens/Figura01.png" data-toggle="lightbox" data-footer="Trilha - Primeiro passo">
-                        <img class="img-fluid" src="imagens/Figura01.png" alt="Alt_da_Imagem">
+                        <img class="img-fluid wow fadeIn" src="imagens/Figura01.png" alt="Alt_da_Imagem wow fadeInUp">
                     </a>
                     <p class="FonteFigura"><a href="https://cdn.pixabay.com/photo/2017/05/26/20/18/marathon-2346948_960_720.jpg " target="_blank">https://cdn.pixabay.com /photo/2017/05/26/20/18/ marathon-2346948_960_720.jpg </a></p>
                 </div>
                 <hr>
 
+                JFAS
                 <div class="alert alert-secondary" role="alert">
                     <p class="SubTitulo text-success"> Parabéns, cursista! </p>
 
@@ -62,7 +63,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 2:</strong></p>
                     <a href="imagens/Figura02.png" data-toggle="lightbox" data-footer="Ingredientes de uma receita">
-                        <img class="img-fluid" src="imagens/Figura02.png" alt="Alt_da_Imagem">
+                        <img class="img-fluid" src="imagens/Figura02.png" alt="Alt_da_Imagem wow fadeInDown">
                     </a>
                     <p class="FonteFigura"><a href="https://cdn.pixabay.com/photo/2017/12/29/19/37/food-3048440_960_720.jpg " target="_blank">https://cdn.pixabay.com/photo/2017/12/29/19/37 /food-3048440_960_720.jpg </a></p>
                 </div>
@@ -85,7 +86,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 3:</strong></p>
                     <a href="imagens/Figura03.png" data-toggle="lightbox" data-footer="Virtual learning">
-                        <img class="img-fluid" src="imagens/Figura03.png" alt="Alt_da_Imagem">
+                        <img class="img-fluid wow fadeIn" src="imagens/Figura03.png" alt="Alt_da_Imagem">
                     </a>
                     <p class="FonteFigura"><a href="https://cdn.pixabay.com/photo/2020/09/07/00/39/virtual-learning-5550480_960_720.jpg  " target="_blank">https://cdn.pixabay.com /photo/2020/09/07/00/39/virtual-learning-5550480_ 960_720.jpg </a></p>
                 </div>
@@ -123,7 +124,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 4:</strong></p>
                     <a href="imagens/Figura04.png" data-toggle="lightbox" data-footer="Usuários de internet no Brasil">
-                        <img class="img-fluid" src="imagens/Figura04.png" alt="Alt_da_Imagem">
+                        <img class="img-fluid wow fadeInDown " src="imagens/Figura04.png" alt="Alt_da_Imagem">
                     </a>
                 </div>
                 <hr>
@@ -131,7 +132,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 5:</strong></p>
                     <a href="imagens/Figura05.png" data-toggle="lightbox" data-footer="Dispositivos usados para acessar a internet no Brasil">
-                        <img class="img-fluid" src="imagens/Figura05.png" alt="Alt_da_Imagem">
+                        <img class="img-fluid wow fadeIn" src="imagens/Figura05.png" alt="Alt_da_Imagem">
                     </a>
                 </div>
                 <hr>
@@ -139,7 +140,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 6:</strong></p>
                     <a href="imagens/Figura06.png" data-toggle="lightbox" data-footer="Dispositivos de acessos">
-                        <img class="img-fluid" src="imagens/Figura06.png" alt="Alt_da_Imagem">
+                        <img class="img-fluid wow fadeInUp" src="imagens/Figura06.png" alt="Alt_da_Imagem">
                     </a>
                 </div>
                 <hr>
@@ -311,7 +312,8 @@ include('layout/header.php');
                     </li>
                     <br><br>
 
-                </ul>               
+                </ul>
+                <div class="text-center">
                     <a href="Topico02.php" type="button" class="btn btn-outline-success btn-sm">Próxima Página</a>
                 </div>
 
@@ -330,6 +332,10 @@ include('layout/header.php');
                     $('.popover-dismiss').popover({
                         trigger: 'focus'
                     })
+
+                    $(document).ready(function() {
+                        new WOW().init();
+                    });
                 </script>
 
             </div> <!-- CLASS PAGE TITLE FIM -->
