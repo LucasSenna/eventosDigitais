@@ -20,14 +20,14 @@ include('layout/header.php');
         <div class="main-content container-fluid">
             <div class="page-title">
 
-                <h2 class="font-bold">Tópico 4 - Tipologia de Eventos Digitais</h2>
+                <h2 class="font-bold">4 - Tipologia de Eventos Digitais</h2>
                 <hr>
 
                 <p class="SubTitulo">Objetivos:</p>
 
-                <ul class="Texto pl-5">
-                    <li>Resumir os principais tipos e formatos presenciais que podem ser utilizados no evento digital;</li>
-                    <li>Construir repertório de criação de eventos educacionais para facilitar a ideação de novos projetos;</li>
+                <ul class="Texto pl-5" style="list-style: none;">
+                    <li><i class="fas fa-angle-right CorLaranja"></i> Resumir os principais tipos e formatos presenciais que podem ser utilizados no evento digital;</li>
+                    <li><i class="fas fa-angle-right CorLaranja"></i> Construir repertório de criação de eventos educacionais para facilitar a ideação de novos projetos;</li>
                 </ul>
                 <hr>
 

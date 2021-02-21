@@ -20,15 +20,15 @@ include('layout/header.php');
         <div class="main-content container-fluid">
             <div class="page-title">
 
-                <h2 class="font-bold">Tópico 2 - Eventos Presenciais, Híbridos e Digitais como Ferramenta de Educação</h2>
+                <h2 class="font-bold">2 - Eventos Presenciais, Híbridos e Digitais como Ferramenta de Educação</h2>
                 <hr>
 
                 <p class="SubTitulo">Objetivos:</p>
 
-                <ul class="Texto pl-5">
-                    <li>Apresentar conceitos básicos e diferenças estratégicas e operacionais entre eventos presenciais, híbridos e digitais;</li>
-                    <li>Contribuir com a formatação de novos projetos por meio de exemplos reais e fictícios de eventos digitais;</li>
-                    <li>Listar tipologias de eventos e apresentar ferramentas de inovação e criatividade para idealizar eventos digitais.</li>
+                <ul class="Texto pl-5" style="list-style: none;">
+                    <li><i class="fas fa-angle-right CorLaranja"></i> Apresentar conceitos básicos e diferenças estratégicas e operacionais entre eventos presenciais, híbridos e digitais;</li>
+                    <li><i class="fas fa-angle-right CorLaranja"></i> Contribuir com a formatação de novos projetos por meio de exemplos reais e fictícios de eventos digitais;</li>
+                    <li><i class="fas fa-angle-right CorLaranja"></i> Listar tipologias de eventos e apresentar ferramentas de inovação e criatividade para idealizar eventos digitais.</li>
                 </ul>
                 <hr>
 
@@ -36,11 +36,13 @@ include('layout/header.php');
 
                 Clique no tipo de evento para entender como ele ocorre.<br><br>
 
+               
                 <div>
                     <p>
-                        <a class="btn btn-info" data-toggle="collapse" href="#presencial" role="button" aria-expanded="false" aria-controls="presencial">
+                        <a class="btn btn-success" data-toggle="collapse" href="#presencial" role="button" aria-expanded="false" aria-controls="presencial">
                             <strong>PRESENCIAL</strong>
                         </a>
+
                     </p>
                     <div class="collapse" id="presencial">
                         <div class="card card-body">
@@ -49,7 +51,7 @@ include('layout/header.php');
                     </div>
 
                     <p>
-                        <a class="btn btn-info" data-toggle="collapse" href="#hibrido" role="button" aria-expanded="false" aria-controls="hibrido">
+                        <a class="btn btn-success" data-toggle="collapse" href="#hibrido" role="button" aria-expanded="false" aria-controls="hibrido">
                             <strong>HÍBRIDO</strong>
                         </a>
                     </p>
@@ -60,7 +62,7 @@ include('layout/header.php');
                     </div>
 
                     <p>
-                        <a class="btn btn-info" data-toggle="collapse" href="#virtual" role="button" aria-expanded="false" aria-controls="virtual">
+                        <a class="btn btn-success" data-toggle="collapse" href="#virtual" role="button" aria-expanded="false" aria-controls="virtual">
                             <strong>VIRTUAL</strong>
                         </a>
                     </p>
@@ -104,7 +106,7 @@ include('layout/header.php');
                         <div class="col">
                         </div>
                         <div class="col-10 Texto" style="font-size: 0.90em;">
-                            <em>Pressupomos o trabalho sob forma exclusivamente humana. Uma aranha executa operações semelhantes às do tecelão, e a abelha supera mais de um arquiteto ao construir sua colméia. Mas o que distingue o pior arquiteto da melhor abelha é que ele figura na mente sua construção antes de transformá-la em realidade. No fim do processo do trabalho aparece um resultado que já existia antes idealmente na imaginação do trabalhador. Ele não transforma apenas o material sobre o qual opera; ele imprime ao material o projeto que tinha conscientemente em mira, o qual constitui a lei determinante do seu modo de operar e ao qual tem de subordinar sua vontade. (Bianchetti 2001, p.25) apud (Marx 1987, p. 202)</em>
+                            Pressupomos o trabalho sob forma exclusivamente humana. Uma aranha executa operações semelhantes às do tecelão, e a abelha supera mais de um arquiteto ao construir sua colméia. Mas o que distingue o pior arquiteto da melhor abelha é que ele figura na mente sua construção antes de transformá-la em realidade. No fim do processo do trabalho aparece um resultado que já existia antes idealmente na imaginação do trabalhador. Ele não transforma apenas o material sobre o qual opera; ele imprime ao material o projeto que tinha conscientemente em mira, o qual constitui a lei determinante do seu modo de operar e ao qual tem de subordinar sua vontade. (Bianchetti 2001, p.25) apud (Marx 1987, p. 202)
                         </div>
                     </div>
                 </div>
@@ -184,7 +186,7 @@ include('layout/header.php');
                 </p>
 
                 <p class="Texto">Um exemplo curioso foi apresentado na série fictícia Grey's Anatomy,
-                    <a tabindex="0" class="btn btn-outline-success" role="button" data-toggle="popover" data-trigger="focus" data-placement="top" title="Os médicos comparam a experiência de uma conferência médica como um acampamento de verão para cirurgiões, uma experiência única de rever pessoas que pensam e agem como você e que possui objetivos em comum.."><strong><strong> Clique aqui para saber mais.</strong></strong>.</a>
+                    <a tabindex="0" class="btn btn-outline-success" role="button" data-toggle="popover" data-trigger="focus" data-placement="top" data-content="Os médicos comparam a experiência de uma conferência médica como um acampamento de verão para cirurgiões, uma experiência única de rever pessoas que pensam e agem como você e que possui objetivos em comum.."><strong><strong> Clique aqui para saber mais.</strong></strong>.</a>
                 </p>
 
 
@@ -241,7 +243,7 @@ include('layout/header.php');
                 </p>
 
                 <div>
-                    <a href="https://www.instagram.com/lacosevento/" target="_blank" type="button" class="btn btn-info btn-lg btn-block">Clique aqui e conheça o perfil do instagram de um evento chamado “Laços”, realizado em Fortaleza na modalidade híbrida. </a>
+                    <a href="https://www.instagram.com/lacosevento/" target="_blank" type="button" class="btn btn-success btn-lg btn-block">Clique aqui e conheça o perfil do instagram de um evento chamado “Laços”, realizado em Fortaleza na modalidade híbrida. </a>
                 </div>
                 <hr>
 
@@ -282,7 +284,7 @@ include('layout/header.php');
                     Cursos autoinstrucionais podem ser realizados virtualmente, mas parte da formação ocorre presencialmente com a presença de um público específico, responsável por apresentar um trabalho remoto aos milhares de servidores que assistem o evento na internet.
                 </p>
 
-                <p class="Textp">
+                <p class="Texto">
                     <strong>Reflexões como essa fazem parte do processo de ideação</strong>, isto é, da criação e planejamento dos eventos digitais como ferramenta de educação.
                 </p>
 
@@ -359,7 +361,7 @@ include('layout/header.php');
                         <div class="col">
                         </div>
                         <div class="col-10 Texto" style="font-size: 0.90em;">
-                            <em> O potencial de vendas fica razoavelmente prejudicado em detrimento da falta do encontro presencial. Showcases virtuais ajudam a diminuir esse problema, mas não se comparam com expositores presenciais. [Para a realização de feiras] É necessária a aplicação de novas tecnologias e métodos para a aproximação de um cenário aceitável. Em determinados eventos, a experiência virtual pode até suplantar o evento presencial, mas é necessário maior investimento em tecnologia. (VM, 2020 pg. 17)</em>
+                            O potencial de vendas fica razoavelmente prejudicado em detrimento da falta do encontro presencial. Showcases virtuais ajudam a diminuir esse problema, mas não se comparam com expositores presenciais. [Para a realização de feiras] É necessária a aplicação de novas tecnologias e métodos para a aproximação de um cenário aceitável. Em determinados eventos, a experiência virtual pode até suplantar o evento presencial, mas é necessário maior investimento em tecnologia. (VM, 2020 pg. 17)
                         </div>
                     </div>
                 </div>
@@ -708,7 +710,7 @@ include('layout/header.php');
                 </p>
                 <hr> -->
                 <!-- SCRIPT LIGHTBOX -->
-                <script>
+                <!-- <script>
                     $(document).on('click', '[data-toggle="lightbox"]', function(event) {
                         event.preventDefault();
                         $(this).ekkoLightbox();
@@ -722,10 +724,8 @@ include('layout/header.php');
                         trigger: 'focus'
                     })
 
-                    $('#myCollapsible').collapse({
-                        toggle: false
-                    })
-                </script>
+                    $('.collapse').collapse()
+                </script> -->
 
             </div> <!-- CLASS PAGE TITLE FIM -->
         </div> <!-- CONTEUDO FIM -->

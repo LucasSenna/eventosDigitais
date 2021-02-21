@@ -371,7 +371,7 @@ h6 {
   font-weight: 300;
   line-height: 1.2;
 }
-.display-4. {
+.display-4 {
   font-size: 3.5rem;
   font-weight: 300;
   line-height: 1.2;
@@ -4385,7 +4385,7 @@ input[type="submit"].btn-block {
   word-wrap: break-word;
   background-color: #fff;
   background-clip: border-box;
-  border: 1px solid #286ce6;
+  border: 1px solid #008445;
   border-radius: 0.25rem;
 
 }
@@ -4415,7 +4415,7 @@ input[type="submit"].btn-block {
   -ms-flex: 1 1 auto;
   flex: 1 1 auto;
   min-height: 50px;
-  padding: 20.25rem;
+  padding: 1rem 1rem;
 }
 .card-title {
   margin-bottom: 0.75rem;

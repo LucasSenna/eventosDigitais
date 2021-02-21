@@ -20,15 +20,15 @@ include('layout/header.php');
         <div class="main-content container-fluid">
             <div class="page-title">
 
-                <h2 class="font-bold">Tópico 3 - Design e Planejamento de Eventos Digitais</h2>
+                <h2 class="font-bold">3 - Design e Planejamento de Eventos Digitais</h2>
                 <hr>
 
                 <p class="SubTitulo">Objetivos:</p>
 
-                <ul class="Texto pl-5">
-                    <li>Apresentar elementos técnicos necessários para realização de eventos digitais;</li>
-                    <li>Ilustrar a experiência de eventos digitais a partir de exemplos reais;</li>
-                    <li>Listar possibilidades de eventos públicos com e sem processo licitatório.</li>
+                <ul class="Texto pl-5" style="list-style: none;">
+                    <li><i class="fas fa-angle-right CorLaranja"></i> Apresentar elementos técnicos necessários para realização de eventos digitais;</li>
+                    <li><i class="fas fa-angle-right CorLaranja"></i> Ilustrar a experiência de eventos digitais a partir de exemplos reais;</li>
+                    <li><i class="fas fa-angle-right CorLaranja"></i> Listar possibilidades de eventos públicos com e sem processo licitatório.</li>
                 </ul>
                 <hr>
 
@@ -191,7 +191,8 @@ include('layout/header.php');
 
                     <p class="Texto">
                         O tradicional Cerimonial e Protocolo, por exemplo, é necessário no evento digital, mas precisam se repensados para que a dinâmica da apresentação não se torne massante.
-                    </p><br>
+                    </p>
+                    <hr>
 
                     <p class="SubTitulo">
                         Plataformas de Transmissão
@@ -413,440 +414,442 @@ include('layout/header.php');
                         <div class="row">
                             <div class="col">
                                 <div class="alert alert-secondary" role="alert">
-                                    <p class="SubSubTitulo CorLaranja">
-                                        Calma, não se assuste com tantos termos!
+                                    <p class="SubSubTitulo CorLaranja text-center">
+                                        Calma! Não se assuste com tantos termos!
                                     </p>
                                 </div>
+
                             </div>
-                            <div class="col">
+                        </div>
+
+                        <p class="Texto">
+                            Lembre que a sua missão é orquestrar todo esse processo e não operacionalizar todas as atividades. <strong>Você contará com o apoio de várias pessoas para que cada item listado seja realizado com sucesso.</strong>
+                        </p>
+
+                        <div class="container">
+                            <div class="table-responsive">
+                                <table class="table table-bordered">
+                                    <thead>
+                                        <tr>
+                                            <th>Plataforma</th>
+                                            <th>Detalhamento</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody class="tBody">
+                                        <tr>
+                                            <th class="left">1. Attendify </th>
+                                            <th>Ajuda a construir relacionamento e comunidades entre participantes dos eventos. Entre as ferramentas disponíveis estão o mobile event app, inscrições, captura de lead e customização de sites. <a href="https://attendify.com/" target="_blank"> https://www.attendify.com/ </a>
+                                            </th>
+                                        </tr>
+                                        <tr>
+                                            <th class="left">2. Eu vou </th>
+                                            <th>Eu Vou Sistema para gestão de eventos corporativos, incluindo: inscrição, credenciamento, RSVP, Coletor de Contatos, controle de acesso para eventos corporativos. <a href="https://site.euvou.events/" target="_blank">https://www.euvou.events/</a>
+                                            </th>
+                                        </tr>
+                                        <tr>
+                                            <th class="left">3. Eventbrite </th>
+                                            <th>Plataforma de gerenciamento de eventos criada nos EUA e um dos líderes mundiais.<a href="http://www.eventbrite.com.br/" target="_blank"> https://www.eventbrite.com.br/</a> </th>
+                                        </tr>
+                                        <tr>
+                                            <th class="left">4. InEvent</th>
+                                            <th>Plataforma digital para gestão de eventos corporativos contendo aplicativo mobile e inúmeras ferramentas. <a href="https://inevent.com/" target="blank"> https://www.inevent.com.br/</a>
+                                            </th>
+                                        </tr>
+                                        <tr>
+                                            <th class="left">5. Midiacode </th>
+                                            <th>Plataforma para gestão de conteúdos e programações, com app e sistema de gestão na nuvem. Permite criar grupos de networking, possui cartões de visita virtuais.<br>
+                                                Usa QR Codes para criar interação entre as coisas, os locais, as apresentações e os participantes. Usa sistema de big data e analytics para descortinar toda a inteligência do seu evento. <br>
+                                                Com plataforma inteligente de hiper customização, permite que cada participante do evento sinta como se o app tivesse sido feito especialmente para ele. Apps são mantidos nos celulares dos participantes pós evento, permitindo uma relação de longo prazo entre expositores, patrocinadores e participantes. <a href="https://midiacode.com/" target="_blank">https://www.midiacode.com/
+                                                    www.greenhatpeople.com</a> </th>
+                                        </tr>
+                                        <tr>
+                                            <th class="left">6. MobLee</th>
+                                            <th>Solução para criação de ambiente virtual de evento, transmissão e engajamento via ambiente virtual e app. <a href="https://www.moblee.com.br/" target="_blank"> https://www.moblee.com.br/</a> </th>
+                                        </tr>
+                                        <tr>
+                                            <th class="left">7. Sympla </th>
+                                            <th>Plataforma líder no Brasil em venda e gestão de inscrições para eventos. <a href="https://beta.sympla.com.br/" target="_blank"> https://www.sympla.com.br/ </a>
+                                            </th>
+                                        </tr>
+                                        <tr>
+                                            <th class="left">8. Yazo </th>
+                                            <th>A Socrative oferece ferramentas de avaliação formativa para professores de todo o mundo, mas pode ser usado também em eventos virtuais.
+                                                Desenvolvedora de aplicativos personalizados para Eventos corporativos, campanhas de incentivo e convenções, com foco na experiência do participante. <a href="https://www.yazo.com.br/" target="_blank"> https://www.yazo.com.br/ </a>
+                                            </th>
+                                        </tr>
+                                    </tbody>
+                                </table>
                             </div>
                         </div>
-                    </div>
 
-                    <p class="Texto">
-                        Lembre que a sua missão é orquestrar todo esse processo e não operacionalizar todas as atividades. <strong>Você contará com o apoio de várias pessoas para que cada item listado seja realizado com sucesso.</strong>
-                    </p>
+                        <div style="font-size: 12px;">
+                            Fonte: Eventos Híbridos e Virtuais (2020)
+                        </div><br><br>
 
-                    <div class="container">
-                        <div class="table-responsive">
-                            <table class="table table-bordered">
-                                <thead>
-                                    <tr>
-                                        <th>Plataforma</th>
-                                        <th>Detalhamento</th>
-                                    </tr>
-                                </thead>
-                                <tbody class="tBody">
-                                    <tr>
-                                        <th class="left">1. Attendify </th>
-                                        <th>Ajuda a construir relacionamento e comunidades entre participantes dos eventos. Entre as ferramentas disponíveis estão o mobile event app, inscrições, captura de lead e customização de sites. <a href="https://attendify.com/" target="_blank"> https://www.attendify.com/ </a>
-                                        </th>
-                                    </tr>
-                                    <tr>
-                                        <th class="left">2. Eu vou </th>
-                                        <th>Eu Vou Sistema para gestão de eventos corporativos, incluindo: inscrição, credenciamento, RSVP, Coletor de Contatos, controle de acesso para eventos corporativos. <a href="https://site.euvou.events/" target="_blank">https://www.euvou.events/</a>
-                                        </th>
-                                    </tr>
-                                    <tr>
-                                        <th class="left">3. Eventbrite </th>
-                                        <th>Plataforma de gerenciamento de eventos criada nos EUA e um dos líderes mundiais.<a href="http://www.eventbrite.com.br/" target="_blank"> https://www.eventbrite.com.br/</a> </th>
-                                    </tr>
-                                    <tr>
-                                        <th class="left">4. InEvent</th>
-                                        <th>Plataforma digital para gestão de eventos corporativos contendo aplicativo mobile e inúmeras ferramentas. <a href="https://inevent.com/" target="blank"> https://www.inevent.com.br/</a>
-                                        </th>
-                                    </tr>
-                                    <tr>
-                                        <th class="left">5. Midiacode </th>
-                                        <th>Plataforma para gestão de conteúdos e programações, com app e sistema de gestão na nuvem. Permite criar grupos de networking, possui cartões de visita virtuais.<br>
-                                            Usa QR Codes para criar interação entre as coisas, os locais, as apresentações e os participantes. Usa sistema de big data e analytics para descortinar toda a inteligência do seu evento. <br>
-                                            Com plataforma inteligente de hiper customização, permite que cada participante do evento sinta como se o app tivesse sido feito especialmente para ele. Apps são mantidos nos celulares dos participantes pós evento, permitindo uma relação de longo prazo entre expositores, patrocinadores e participantes. <a href="https://midiacode.com/" target="_blank">https://www.midiacode.com/
-                                                www.greenhatpeople.com</a> </th>
-                                    </tr>
-                                    <tr>
-                                        <th class="left">6. MobLee</th>
-                                        <th>Solução para criação de ambiente virtual de evento, transmissão e engajamento via ambiente virtual e app. <a href="https://www.moblee.com.br/" target="_blank"> https://www.moblee.com.br/</a> </th>
-                                    </tr>
-                                    <tr>
-                                        <th class="left">7. Sympla </th>
-                                        <th>Plataforma líder no Brasil em venda e gestão de inscrições para eventos. <a href="https://beta.sympla.com.br/" target="_blank"> https://www.sympla.com.br/ </a>
-                                        </th>
-                                    </tr>
-                                    <tr>
-                                        <th class="left">8. Yazo </th>
-                                        <th>A Socrative oferece ferramentas de avaliação formativa para professores de todo o mundo, mas pode ser usado também em eventos virtuais.
-                                            Desenvolvedora de aplicativos personalizados para Eventos corporativos, campanhas de incentivo e convenções, com foco na experiência do participante. <a href="https://www.yazo.com.br/" target="_blank"> https://www.yazo.com.br/ </a>
-                                        </th>
-                                    </tr>
-                                </tbody>
-                            </table>
+                        <p class="SubTitulo">
+                            Palestrantes e Moderados
+                        </p>
+
+                        <p class="Texto">
+                            <strong>A alma do seu evento está em seu propósito e na sua programação,</strong> concorda? Então é preciso atenção e cuidado com todos os seus convidados. Muitos convidados possuem videofobia e são inseguros quando o assunto é tecnologia.
+                        </p>
+
+                        <p class="Texto">
+                            Listamos alguns cuidados e itens que devem ser testados para que a conferência com o palestrante ocorra sem imprevistos graves:
+                        </p>
+
+                        <ul class="Texto pl-5">
+                            <li>Conexão WIFI e 4G;</li>
+                            <li>Bateria e cabos de energia;</li>
+                            <li><strong>Posição do palestrante e “cenário”;</strong></li>
+                            <li><strong>Posição e observação da luz natural;</strong></li>
+                            <li>Qualidade de áudio;</li>
+                            <li>Altura da Câmera;</li>
+                            <li><strong>Ensaio do Roteiro/Cerimonial.</strong></li>
+                        </ul>
+
+                        <p class="Texto">
+                            <strong>Quanto menor for o evento, mais cuidado e atenção individual você deverá ter com os seus convidados.</strong> Caso haja tempo hábil e recursos, cogite a aquisição de microfones de lapela e confira até mesmo a posição da luz natural na hora aproximada da conferência.
+                        </p>
+
+                        <p class="Texto">
+                            O moderador é o profissional que conduzirá o evento, similar ao Mestre de Cerimônias dos eventos presenciais. Ele deve ser capaz de <strong>entreter, conduzir e engajar os palestrantes e reter participantes, evitando a evasão de público ao longo do evento.</strong>
+                        </p>
+
+                        <p class="Texto">
+                            Esse profissional poderá ser um Mestre de Cerimônias profissional, um apresentador de TV ou até mesmo um artista ou humorista.
+                        </p>
+
+                        <p class="SubTitulo">
+                            Contratos Digitais
+                        </p>
+
+                        <p class="Texto">
+                            <strong>A internet não é uma terra sem lei!</strong> Você precisa ter segurança legal e mostrar profissionalismo em todas as etapas do evento. Por isso, é importante utilizar uma ferramenta de assinatura de contratos para validar todas as parcerias, sejam elas pagas ou não.
+                        </p>
+
+                        <p class="Texto">
+                            Essas ferramentas (<a href="https://www.clicksign.com/" target="_blank">Clicksign</a>, <a href="https://www.docusign.com.br/" target="_blank">Docusign</a> e outras) permitem a assinatura de contratos por email com validade legal através do registro de IP, email, assinatura escrita ou até mesmo selfie com documento
+                        </p>
+
+                        <div class="text-center">
+                            <p class="TituloFigura"><strong>Figura 24:</strong></p>
+                            <a href="imagens/Figura24.png" data-toggle="lightbox">
+                                <img class="img-fluid wow fadeIn" src="imagens/Figura24.png" alt="Alt_da_Imagem">
+                            </a>
+                            <p class="FonteFigura"><a href="https://cdn.clicksign.com/assets/home/header/application-mockup-334bdeaab40e6efde573e8d458814fe7faee491006de1e0b1cd9053834adab4a.png " target="_blank">Link da img</a></p>
                         </div>
-                    </div>
+                        <hr><br>
 
-                    <div style="font-size: 12px;">
-                        Fonte: Eventos Híbridos e Virtuais (2020)
-                    </div><br><br>
+                        <p class="Texto">
+                            Ficou na dúvida sobre como utilizar essa plataforma? Vamos listar alguns exemplos:
+                        </p>
 
-                    <p class="SubTitulo">
-                        Palestrantes e Moderados
-                    </p>
-
-                    <p class="Texto">
-                        <strong>A alma do seu evento está em seu propósito e na sua programação,</strong> concorda? Então é preciso atenção e cuidado com todos os seus convidados. Muitos convidados possuem videofobia e são inseguros quando o assunto é tecnologia.
-                    </p>
-
-                    <p class="Texto">
-                        Listamos alguns cuidados e itens que devem ser testados para que a conferência com o palestrante ocorra sem imprevistos graves:
-                    </p>
-
-                    <ul class="Texto pl-5">
-                        <li>Conexão WIFI e 4G;</li>
-                        <li>Bateria e cabos de energia;</li>
-                        <li><strong>Posição do palestrante e “cenário”;</strong></li>
-                        <li><strong>Posição e observação da luz natural;</strong></li>
-                        <li>Qualidade de áudio;</li>
-                        <li>Altura da Câmera;</li>
-                        <li><strong>Ensaio do Roteiro/Cerimonial.</strong></li>
-                    </ul>
-
-                    <p class="Texto">
-                        <strong>Quanto menor for o evento, mais cuidado e atenção individual você deverá ter com os seus convidados.</strong> Caso haja tempo hábil e recursos, cogite a aquisição de microfones de lapela e confira até mesmo a posição da luz natural na hora aproximada da conferência.
-                    </p>
-
-                    <p class="Texto">
-                        O moderador é o profissional que conduzirá o evento, similar ao Mestre de Cerimônias dos eventos presenciais. Ele deve ser capaz de <strong>entreter, conduzir e engajar os palestrantes e reter participantes, evitando a evasão de público ao longo do evento.</strong>
-                    </p>
-
-                    <p class="Texto">
-                        Esse profissional poderá ser um Mestre de Cerimônias profissional, um apresentador de TV ou até mesmo um artista ou humorista.
-                    </p>
-
-                    <p class="SubTitulo">
-                        Contratos Digitais
-                    </p>
-
-                    <p class="Texto">
-                        <strong>A internet não é uma terra sem lei!</strong> Você precisa ter segurança legal e mostrar profissionalismo em todas as etapas do evento. Por isso, é importante utilizar uma ferramenta de assinatura de contratos para validar todas as parcerias, sejam elas pagas ou não.
-                    </p>
-
-                    <p class="Texto">
-                        Essas ferramentas (<a href="https://www.clicksign.com/" target="_blank">Clicksign</a>, <a href="https://www.docusign.com.br/" target="_blank">Docusign</a> e outras) permitem a assinatura de contratos por email com validade legal através do registro de IP, email, assinatura escrita ou até mesmo selfie com documento
-                    </p>
-
-                    <div class="text-center">
-                        <p class="TituloFigura"><strong>Figura 24:</strong></p>
-                        <a href="imagens/Figura24.png" data-toggle="lightbox">
-                            <img class="img-fluid wow fadeIn" src="imagens/Figura24.png" alt="Alt_da_Imagem">
-                        </a>
-                        <p class="FonteFigura"><a href="https://cdn.clicksign.com/assets/home/header/application-mockup-334bdeaab40e6efde573e8d458814fe7faee491006de1e0b1cd9053834adab4a.png " target="_blank">Link da img</a></p>
-                    </div>
-                    <hr><br>
-
-                    <p class="Texto">
-                        Ficou na dúvida sobre como utilizar essa plataforma? Vamos listar alguns exemplos:
-                    </p>
-
-                    <div class="container">
-                        <div class="table-responsive">
-                            <table class="table table-bordered">
-                                <thead>
-                                    <tr>
-                                        <th>Exemplo</th>
-                                        <th>Detalhamento</th>
-                                    </tr>
-                                </thead>
-                                <tbody class="tBody">
-                                    <tr>
-                                        <th class="left">Fornecedor </th>
-                                        <th>Contrato para assegurar que os serviços serão prestados, sob pena de multa e juros.
-                                        </th>
-                                    </tr>
-                                    <tr>
-                                        <th class="left">Parceiro </th>
-                                        <th>Contrato de parceria detalhando apoio ao evento, seja ele institucional ou financeiro.
-                                        </th>
-                                    </tr>
-                                    <tr>
-                                        <th class="left">Palestrante </th>
-                                        <th>Contrato para assegurar a presença do palestrante sob pena de multa. </th>
-                                    </tr>
-                                    <tr>
-                                        <th class="left">Anuência</th>
-                                        <th>Termo que comprova que a empresa ou profissional está ciente do uso do seu nome no evento.
-                                        </th>
-                                    </tr>
-                                </tbody>
-                            </table>
+                        <div class="container">
+                            <div class="table-responsive">
+                                <table class="table table-bordered">
+                                    <thead>
+                                        <tr>
+                                            <th>Exemplo</th>
+                                            <th>Detalhamento</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody class="tBody">
+                                        <tr>
+                                            <th class="left">Fornecedor </th>
+                                            <th>Contrato para assegurar que os serviços serão prestados, sob pena de multa e juros.
+                                            </th>
+                                        </tr>
+                                        <tr>
+                                            <th class="left">Parceiro </th>
+                                            <th>Contrato de parceria detalhando apoio ao evento, seja ele institucional ou financeiro.
+                                            </th>
+                                        </tr>
+                                        <tr>
+                                            <th class="left">Palestrante </th>
+                                            <th>Contrato para assegurar a presença do palestrante sob pena de multa. </th>
+                                        </tr>
+                                        <tr>
+                                            <th class="left">Anuência</th>
+                                            <th>Termo que comprova que a empresa ou profissional está ciente do uso do seu nome no evento.
+                                            </th>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
                         </div>
-                    </div>
 
-                    <p class="SubTitulo">
-                        Ações Criativas
-                    </p>
+                        <p class="SubTitulo">
+                            Ações Criativas
+                        </p>
 
-                    <p class="Texto">
-                        O foco do seu evento sempre será a criação de uma experiência de aprendizado, mas é preciso que esses “ingredientes” sejam permeados por ações que <strong>aumentem o engajamento do público ao longo da realização.</strong>
-                    </p>
+                        <p class="Texto">
+                            O foco do seu evento sempre será a criação de uma experiência de aprendizado, mas é preciso que esses “ingredientes” sejam permeados por ações que <strong>aumentem o engajamento do público ao longo da realização.</strong>
+                        </p>
 
-                    <div class="container">
-                        <div class="table-responsive">
-                            <table class="table table-bordered">
-                                <thead>
-                                    <tr>
-                                        <th>Ação</th>
-                                        <th>Exemplos</th>
-                                    </tr>
-                                </thead>
-                                <tbody class="tBody">
-                                    <tr>
-                                        <th class="left">Sorteio</th>
-                                        <th>
-                                            <ul class="Texto pl-5">
-                                                <li>Diárias em hotel;</li>
-                                                <li>Cursos;</li>
-                                                <li>Presentes do patrocinador;</li>
-                                                <li>Mentoria;</li>
-                                                <li>Serviços em geral;</li>
-                                                <li>Créditos em serviços ou eventos;</li>
-                                                <li>Sorteio apenas para quem assiste à última palestra;</li>
-                                            </ul>
-                                        </th>
-                                    </tr>
-                                    <tr>
-                                        <th class="left">Apresentações</th>
-                                        <th>
-                                            <ul class="Texto pl-5">
-                                                <li>Mestre de Cerimônias criativo/artístico;</li>
-                                                <li>Apresentação musical gravada (antes, durante e após palestras);</li>
-                                                <li>Intervenção teatral gravada;</li>
-                                                <li>Exposições virtuais; </li>
-                                                <li>Ações em diversas linguagens artísticas e criativas.</li>
-                                            </ul>
-                                        </th>
-                                    </tr>
-                                    <tr>
-                                        <th class="left">Ações presenciais</th>
-                                        <th>
-                                            <ul class="Texto pl-5">
-                                                <li>Box enviado por correios com diversas interações e conteúdos;</li>
-                                                <li>Materiais para uso em palestras ou workshops específicos.</li>
-                                            </ul>
-                                        </th>
-                                    </tr>
-                                </tbody>
-                            </table>
+                        <div class="container">
+                            <div class="table-responsive">
+                                <table class="table table-bordered">
+                                    <thead>
+                                        <tr>
+                                            <th>Ação</th>
+                                            <th>Exemplos</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody class="tBody">
+                                        <tr>
+                                            <th class="left">Sorteio</th>
+                                            <th>
+                                                <ul class="Texto pl-5">
+                                                    <li>Diárias em hotel;</li>
+                                                    <li>Cursos;</li>
+                                                    <li>Presentes do patrocinador;</li>
+                                                    <li>Mentoria;</li>
+                                                    <li>Serviços em geral;</li>
+                                                    <li>Créditos em serviços ou eventos;</li>
+                                                    <li>Sorteio apenas para quem assiste à última palestra;</li>
+                                                </ul>
+                                            </th>
+                                        </tr>
+                                        <tr>
+                                            <th class="left">Apresentações</th>
+                                            <th>
+                                                <ul class="Texto pl-5">
+                                                    <li>Mestre de Cerimônias criativo/artístico;</li>
+                                                    <li>Apresentação musical gravada (antes, durante e após palestras);</li>
+                                                    <li>Intervenção teatral gravada;</li>
+                                                    <li>Exposições virtuais; </li>
+                                                    <li>Ações em diversas linguagens artísticas e criativas.</li>
+                                                </ul>
+                                            </th>
+                                        </tr>
+                                        <tr>
+                                            <th class="left">Ações presenciais</th>
+                                            <th>
+                                                <ul class="Texto pl-5">
+                                                    <li>Box enviado por correios com diversas interações e conteúdos;</li>
+                                                    <li>Materiais para uso em palestras ou workshops específicos.</li>
+                                                </ul>
+                                            </th>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
                         </div>
-                    </div>
+                        <hr>
 
-                    <!-- Atividade -->
-                    <div>
-                        <p class="AtividadeTitulo"> <br>Atividade</p>
-                        <p class="AtividadeTexto">Solte a imaginação e crie três ações criativas para o seu evento digital! <strong>(Esses dados podem ser compilados e abertos ao público através de um Google Forms /Sheet. Não haverá tutorial)</strong></p>
-                    </div>
-                    <hr>
-
-                    <p class="Texto">
-                        As ações presenciais sugeridas se aplicam apenas em eventos híbridos ou com quantidade limitada de participantes.
-                    </p>
-
-                    <div class="container">
-                        <div class="alert alert-secondary" role="alert">
-                            <p class="SubSubTitulo CorLaranja text-center">
-                                <strong>Vamos soltar a imaginação?</strong>
+                        <!-- Atividade -->
+                        <div>
+                            <p class="AtividadeTitulo"> Atividade</p>
+                            <p class="AtividadeTexto">Solte a imaginação e crie três ações criativas para o seu evento digital! <strong>(Esses dados podem ser compilados e abertos ao público através de um Google Forms /Sheet. Não haverá tutorial)</strong></p>
+                            <p class="Texto">
+                                <small><i class="fa fa-info-circle fa-lg Azul" aria-hidden="true"></i> Essa atividade é apenas para fins de exercitar o conteúdo já visto, não será avaliada pela equipe no final do curso, portanto, não precisa ser enviada para correção.</small>
                             </p>
                         </div>
-                    </div>
+                        <hr>
 
+                        <p class="Texto">
+                            As ações presenciais sugeridas se aplicam apenas em eventos híbridos ou com quantidade limitada de participantes.
+                        </p>
 
-                    <div class="card">
-                        <div class="card-body bg-light">
-                            <h5 class="card-title Texto"><strong>Transforme a experiência</strong></h5>
-                            <p class="card-text">A Comic Con Experience, maior evento de cultura nerd e geek do país, acontece em dezembro todos os anos. Em 2020, a CCXP foi transformada totalmente para o formato digital. </p>
-                            <p class="card-text">Agora existe a possibilidade de escolher o ingresso que mais se adequa a você e ter acesso ao evento até mesmo gratuitamente.. </p>
+                        <div class="container">
+                            <div class="alert alert-secondary" role="alert">
+                                <p class="SubSubTitulo CorLaranja text-center">
+                                    <strong>Vamos soltar a imaginação?</strong>
+                                </p>
+                            </div>
                         </div>
-                        <img src="imagens/Figura26.png" class="card-img-bottom" alt="Alt_da_Imagem">
-                        <p class="card-text"><a href="https://ingressos.ccxp.com.br/" target="_blank"> https://ingressos.ccxp.com.br/ </a></p>
-                    </div>
 
-                    <p class="SubTitulo">
-                        Gestão de Riscos
-                    </p>
 
-                    <p class="Texto">
-                        Após esboçar temas, convidados, palestrantes, atividades e tudo que torna o seu evento relevante, é preciso ensaiar junto com a equipe técnica todos os passos para que não ocorram imprevistos, atrasos, quedas de internet e demais riscos.
-                    </p>
-
-                    <p class="Texto">
-                        Os pontos negativos ou possíveis erros devem ser levados em consideração sempre e <strong>permeiam todas as fases do evento.</strong>
-                    </p>
-
-                    <p class="Texto">
-                        <strong>A facilidade e o acesso à tecnologia pode gerar uma falsa sensação de facilidade na criação e produção de eventos digitais, aumentando ainda mais os riscos do projeto.</strong>
-                    </p>
-
-                    <p class="Texto">
-                        Podemos listar de uma forma mais generalista os seguintes cenários negativos:
-                    </p>
-
-                    <ul class="Texto pl-5">
-                        <li><strong>Evento mal idealizado</strong>, sem justificativa ou relevância clara;</li>
-                        <li>Formato e conteúdos que <strong>não geram interesse do público</strong>;</li>
-                        <li>Efetividade questionável junto aos públicos da zona rural, <strong>sem acesso à internet</strong> e tecnologia móvel;</li>
-                        <li><strong>Comportamento imprevisível do público</strong> acostumado com eventos presenciais;</li>
-                        <li>Dificuldade no engajamento de público e conversão entre inscritos e <strong>pessoas que efetivamente assistem ao vivo.</strong></li>
-                    </ul>
-
-                    <p class="Texto">
-                        Partindo para uma camada mais técnica, é preciso novamente usar a criatividade para imaginar cenários negativos e as <strong>possíveis ações de mitigação</strong>, conforme o exemplo abaixo:
-                    </p>
-
-                    <div class="container">
-                        <div class="table-responsive">
-                            <table class="table table-bordered">
-                                <thead>
-                                    <tr>
-                                        <th>Tipo</th>
-                                        <th>Detalhamento</th>
-                                        <th>Ações</th>
-                                    </tr>
-                                </thead>
-                                <tbody class="tBody">
-                                    <tr>
-                                        <th>Audiovisual</th>
-                                        <th>Palestrante não consegue se comunicar com a equipe ao vivo;</th>
-                                        <th>1. Tentar contato durante 25 segundos;<br>
-                                            2. Apresentador relembra sorteios ou fala mais sobre a programação;<br>
-                                            3. Vinheta de 1 minuto;<br>
-                                            4. Cancelamento ou adiamento da apresentação.<br>
-                                            5. Envio de gravação do palestrante por email. </th>
-                                    </tr>
-                                    <tr>
-                                        <th>Energia</th>
-                                        <th>Energia do estúdio cai</th>
-                                        <th>Exigir na licitação que o estúdio contrate dois geradores de energia;
-                                        </th>
-                                    </tr>
-                                </tbody>
-                            </table>
+                        <div class="card">
+                            <div class="card-body bg-light">
+                                <h5 class="card-title Texto"><strong>Transforme a experiência</strong></h5>
+                                <p class="card-text">A Comic Con Experience, maior evento de cultura nerd e geek do país, acontece em dezembro todos os anos. Em 2020, a CCXP foi transformada totalmente para o formato digital. </p>
+                                <p class="card-text">Agora existe a possibilidade de escolher o ingresso que mais se adequa a você e ter acesso ao evento até mesmo gratuitamente.. </p>
+                            </div>
+                            <img src="imagens/Figura26.png" class="card-img-bottom" alt="Alt_da_Imagem">
+                            <p class="card-text"><a href="https://ingressos.ccxp.com.br/" target="_blank"> https://ingressos.ccxp.com.br/ </a></p>
                         </div>
-                    </div>
 
-                    <p class="Texto">
-                        Exemplos de Eventos Digitais
-                    </p>
+                        <p class="SubTitulo">
+                            Gestão de Riscos
+                        </p>
 
-                    <p class="Texto">
-                        Existem muitas possibilidades para a realização de eventos digitais como ferramenta de educação. A melhor forma de imersar nesse universo <strong>ser participante dos diversos eventos gratuitos</strong> que ocorrem diariamente no Brasil.
-                    </p>
+                        <p class="Texto">
+                            Após esboçar temas, convidados, palestrantes, atividades e tudo que torna o seu evento relevante, é preciso ensaiar junto com a equipe técnica todos os passos para que não ocorram imprevistos, atrasos, quedas de internet e demais riscos.
+                        </p>
 
-                    <div>
-                        <a href="https://exame.com/pme/43-eventos-online-para-empreendedores-que-acontecem-em-maio/" target="_blank" type="button" class="btn btn-info btn-lg btn-block">Clique aqui para conhecer a lista de 43 eventos digitais desenvolvidos para o público empresário e empreendedor</a>
-                    </div>
+                        <p class="Texto">
+                            Os pontos negativos ou possíveis erros devem ser levados em consideração sempre e <strong>permeiam todas as fases do evento.</strong>
+                        </p>
 
-                    <p class="Texto">
-                        Note que alguns eventos foram desenvolvidos por instituições, outros por empresas que querem divulgar os seus serviços ou entidades sem fins lucrativos.
-                    </p>
+                        <p class="Texto">
+                            <strong>A facilidade e o acesso à tecnologia pode gerar uma falsa sensação de facilidade na criação e produção de eventos digitais, aumentando ainda mais os riscos do projeto.</strong>
+                        </p>
 
-                    <p class="Texto">
-                        Perceba que a <strong>educação é a palavra-chave da maioria dos eventos</strong> e que os formatos são bastante diversos. Você também pode conferir os eventos disponíveis em tempo real na plataforma Sympla através <a href="https://www.sympla.com.br/eventos/online" target="_blank"> desse link</a>.
-                    </p>
+                        <p class="Texto">
+                            Podemos listar de uma forma mais generalista os seguintes cenários negativos:
+                        </p>
 
-                    <p class="Texto">
-                        Agora faça uma nova busca no Google e inscreva-se em pelo menos cinco eventos digitais chancelados por empresas de grande porte e <a href="https://www.sympla.com.br/eventos/online" target="_blank"> continue aprendendo diariamente</a>.
-                    </p>
+                        <ul class="Texto pl-5" style="list-style: none;">
+                            <li><i class="fas fa-angle-right CorLaranja"></i> <strong>Evento mal idealizado</strong>, sem justificativa ou relevância clara;</li>
+                            <li><i class="fas fa-angle-right CorLaranja"></i> Formato e conteúdos que <strong>não geram interesse do público</strong>;</li>
+                            <li><i class="fas fa-angle-right CorLaranja"></i> Efetividade questionável junto aos públicos da zona rural, <strong>sem acesso à internet</strong> e tecnologia móvel;</li>
+                            <li><i class="fas fa-angle-right CorLaranja"></i> <strong>Comportamento imprevisível do público</strong> acostumado com eventos presenciais;</li>
+                            <li><i class="fas fa-angle-right CorLaranja"></i> Dificuldade no engajamento de público e conversão entre inscritos e <strong>pessoas que efetivamente assistem ao vivo.</strong></li>
+                        </ul>
 
-                    <p class="Texto">
-                        Agora sugerimos que faça uma busca no Google e <a href="https://www.sympla.com.br/eventos/online" target="_blank"> se inscreva em algum evento digital</a> chancelado por empresas de grande porte e continue o seu aprendizado.
-                    </p>
-                    <hr>
-                    <h3 class="font-bold">Referências Tópico 03</h3><br>
+                        <p class="Texto">
+                            Partindo para uma camada mais técnica, é preciso novamente usar a criatividade para imaginar cenários negativos e as <strong>possíveis ações de mitigação</strong>, conforme o exemplo abaixo:
+                        </p>
 
-                    <ul style="list-style: none;">
-                        <li>
-                            <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                            CEARÁ GLOBAL. Gamifica, 2020. Disponível em: <a href="https://cearaglobal.gamifica.ai/entrar" target="_blank"> https://cearaglobal.gamifica.ai /entrar</a>.
-                        </li>
-                        <br>
-                        <li>
-                            <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                            DOCUSIGN. DOCUSIGN, 2020. Site de realizar acordos. Disponível em: <a href="https://www.docusign.com.br" target="_blank">
-                                https://www.docusign.com.br </a>
-                        </li> <br>
-                        <li>
-                            <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                            CLICKSIGN. Fluxia, 2020. Assinatura eletrônica com validade jurídica. Disponível em: <a href="https://www.clicksign.com" target="_blank">https://www.clicksign.com</a>
-                        </li> <br>
-                        <li>
-                            <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                            MARTIN, VANESSA; LISBOA, Robson. Eventos Digitais, Híbridos & Virtuais. Disponível em: <a href="https://mcusercontent.com/a5418613c861eb393090f66ab/files/49415bce-18d4-4bd0-b8a4-7d7caf9ca4fe/Ebook_Eventos_hibridos_e_virtuais_2020_vfinal_1_.pdf" target="_blank"> https://mcusercontent.com /a5418613c861eb393090f66ab /files/49415bce-18d4-4bd0-b8a4-7d7caf9ca4fe /Ebook_Eventos_hibridos_e_ virtuais_2020_vfinal_1_.pdf</a>.
-                        </li> <br>
-                        <li>
-                            <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                            NGIZZA, Carolina. 43 eventos online para empreendedores que acontecem em maio. exame., São Paulo, 06 de maio de 2020. PME. Disponível em: <a href="https://exame.com/pme/43-eventos-online-para-empreendedores-que-acontecem-em-maio" target="_blank"> https://exame.com /pme/43-eventos-online-para- empreendedores-que-acontecem-em-maio</a>.
-                        </li> <br>
-                        <li>
-                            <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                            APRESENTE vídeo e áudio de alta qualidade no Google Meet. G Suit Updates, 2020. Disponível em: <a href="https://gsuiteupdates-pt.googleblog.com/2020/04/apresente-video-e-audio-de-alta.htm" target="_blank"> https://gsuiteupdates-pt.googleblog.com/2020/04 /apresente-video-e-audio-de-alta.htm </a>
-                        </li> <br>
-                        <li>
-                            <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                            COMO realizar uma conferência grande com zoom: 5 práticas recomendadas para negócios, igreja, etc. 0x notícias blockchain, 2020. Disponível em: <a href="https://pt.0xzx.com/2020040294665.html" target="_blank"> https://pt.0xzx.com/ 2020040294665.html</a>
-                        </li> <br>
-                        <li>
-                            <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                            SYMPLA. Sympla, 2020. Plataforma própria para eventos. Disponível em: <a href="https://www.sympla.com.br/eventos/online" target="_blank"> https://www.sympla.com.br/ eventos/online</a>.
-                        </li> <br>
-                        <li>
-                            <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                            LAYMAN, Madison. Virtual Events in 2020: The Ultimate Guide. cvent, 2020. Disponível em: <a href="https://www.cvent.com/en/blog/events/virtual-events" target="_blank"> https://www.cvent.com/en/blog /events/virtual-events</a>.
-                        </li> <br>
-                        <li>
-                            <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                            Gerrit Heijkoop. YouTube, 2020. How to Organize Engaging Hybrid Events. Disponível em: <a href="https://youtu.be/1cqj0ruaaXY" target="_blank"> https://youtu.be/1cqj0ruaaXY
-                            </a>
-                        </li> <br>
-                        <li>
-                            <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
-                            VANNESTE, Maarten. Multi-Hub Meeting: when groups meets groups. Belgium: 2018, Meeting Support Institute.
-                        </li> <br>
-                        <br><br>
+                        <div class="container">
+                            <div class="table-responsive">
+                                <table class="table table-bordered">
+                                    <thead>
+                                        <tr>
+                                            <th>Tipo</th>
+                                            <th>Detalhamento</th>
+                                            <th>Ações</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody class="tBody">
+                                        <tr>
+                                            <th>Audiovisual</th>
+                                            <th>Palestrante não consegue se comunicar com a equipe ao vivo;</th>
+                                            <th>1. Tentar contato durante 25 segundos;<br>
+                                                2. Apresentador relembra sorteios ou fala mais sobre a programação;<br>
+                                                3. Vinheta de 1 minuto;<br>
+                                                4. Cancelamento ou adiamento da apresentação.<br>
+                                                5. Envio de gravação do palestrante por email. </th>
+                                        </tr>
+                                        <tr>
+                                            <th>Energia</th>
+                                            <th>Energia do estúdio cai</th>
+                                            <th>Exigir na licitação que o estúdio contrate dois geradores de energia;
+                                            </th>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
 
-                    </ul>
+                        <p class="Texto">
+                            Exemplos de Eventos Digitais
+                        </p>
 
-                    <div class="text-center">
-                        <a href="Topico02.php" type="button" class="btn btn-outline-success btn-sm">Página anterior</a>
-                        <a href="Topico04.php" type="button" class="btn btn-outline-success btn-sm">Próxima Página</a>
-                    </div>
+                        <p class="Texto">
+                            Existem muitas possibilidades para a realização de eventos digitais como ferramenta de educação. A melhor forma de imersar nesse universo <strong>ser participante dos diversos eventos gratuitos</strong> que ocorrem diariamente no Brasil.
+                        </p>
 
-                    <!-- SCRIPT LIGHTBOX -->
-                    <script>
-                        $(document).on('click', '[data-toggle="lightbox"]', function(event) {
-                            event.preventDefault();
-                            $(this).ekkoLightbox();
-                        });
+                        <div>
+                            <a href="https://exame.com/pme/43-eventos-online-para-empreendedores-que-acontecem-em-maio/" target="_blank" type="button" class="btn btn-success btn-lg btn-block">Clique aqui para conhecer a lista de 43 eventos digitais desenvolvidos para o público empresário e empreendedor</a>
+                        </div>
 
-                        $(function() {
-                            $('[data-toggle="popover"]').popover()
-                        })
+                        <p class="Texto">
+                            Note que alguns eventos foram desenvolvidos por instituições, outros por empresas que querem divulgar os seus serviços ou entidades sem fins lucrativos.
+                        </p>
 
-                        $('.popover-dismiss').popover({
-                            trigger: 'focus'
-                        })
+                        <p class="Texto">
+                            Perceba que a <strong>educação é a palavra-chave da maioria dos eventos</strong> e que os formatos são bastante diversos. Você também pode conferir os eventos disponíveis em tempo real na plataforma Sympla através <a href="https://www.sympla.com.br/eventos/online" target="_blank"> desse link</a>.
+                        </p>
 
-                        $('#myCollapsible').collapse({
-                            toggle: false
-                        })
-                    </script>
+                        <p class="Texto">
+                            Agora faça uma nova busca no Google e inscreva-se em pelo menos cinco eventos digitais chancelados por empresas de grande porte e <a href="https://www.sympla.com.br/eventos/online" target="_blank"> continue aprendendo diariamente</a>.
+                        </p>
 
-                </div> <!-- CLASS PAGE TITLE FIM -->
-            </div> <!-- CONTEUDO FIM -->
+                        <p class="Texto">
+                            Agora sugerimos que faça uma busca no Google e <a href="https://www.sympla.com.br/eventos/online" target="_blank"> se inscreva em algum evento digital</a> chancelado por empresas de grande porte e continue o seu aprendizado.
+                        </p>
+                        <hr>
+                        <h3 class="font-bold">Referências Tópico 03</h3><br>
 
-            <!-- FOOTER -->
-            <?php include('layout/footer.php') ?>
+                        <ul style="list-style: none;">
+                            <li>
+                                <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
+                                CEARÁ GLOBAL. Gamifica, 2020. Disponível em: <a href="https://cearaglobal.gamifica.ai/entrar" target="_blank"> https://cearaglobal.gamifica.ai /entrar</a>.
+                            </li>
+                            <br>
+                            <li>
+                                <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
+                                DOCUSIGN. DOCUSIGN, 2020. Site de realizar acordos. Disponível em: <a href="https://www.docusign.com.br" target="_blank">
+                                    https://www.docusign.com.br </a>
+                            </li> <br>
+                            <li>
+                                <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
+                                CLICKSIGN. Fluxia, 2020. Assinatura eletrônica com validade jurídica. Disponível em: <a href="https://www.clicksign.com" target="_blank">https://www.clicksign.com</a>
+                            </li> <br>
+                            <li>
+                                <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
+                                MARTIN, VANESSA; LISBOA, Robson. Eventos Digitais, Híbridos & Virtuais. Disponível em: <a href="https://mcusercontent.com/a5418613c861eb393090f66ab/files/49415bce-18d4-4bd0-b8a4-7d7caf9ca4fe/Ebook_Eventos_hibridos_e_virtuais_2020_vfinal_1_.pdf" target="_blank"> https://mcusercontent.com /a5418613c861eb393090f66ab /files/49415bce-18d4-4bd0-b8a4-7d7caf9ca4fe /Ebook_Eventos_hibridos_e_ virtuais_2020_vfinal_1_.pdf</a>.
+                            </li> <br>
+                            <li>
+                                <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
+                                NGIZZA, Carolina. 43 eventos online para empreendedores que acontecem em maio. exame., São Paulo, 06 de maio de 2020. PME. Disponível em: <a href="https://exame.com/pme/43-eventos-online-para-empreendedores-que-acontecem-em-maio" target="_blank"> https://exame.com /pme/43-eventos-online-para- empreendedores-que-acontecem-em-maio</a>.
+                            </li> <br>
+                            <li>
+                                <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
+                                APRESENTE vídeo e áudio de alta qualidade no Google Meet. G Suit Updates, 2020. Disponível em: <a href="https://gsuiteupdates-pt.googleblog.com/2020/04/apresente-video-e-audio-de-alta.htm" target="_blank"> https://gsuiteupdates-pt.googleblog.com/2020/04 /apresente-video-e-audio-de-alta.htm </a>
+                            </li> <br>
+                            <li>
+                                <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
+                                COMO realizar uma conferência grande com zoom: 5 práticas recomendadas para negócios, igreja, etc. 0x notícias blockchain, 2020. Disponível em: <a href="https://pt.0xzx.com/2020040294665.html" target="_blank"> https://pt.0xzx.com/ 2020040294665.html</a>
+                            </li> <br>
+                            <li>
+                                <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
+                                SYMPLA. Sympla, 2020. Plataforma própria para eventos. Disponível em: <a href="https://www.sympla.com.br/eventos/online" target="_blank"> https://www.sympla.com.br/ eventos/online</a>.
+                            </li> <br>
+                            <li>
+                                <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
+                                LAYMAN, Madison. Virtual Events in 2020: The Ultimate Guide. cvent, 2020. Disponível em: <a href="https://www.cvent.com/en/blog/events/virtual-events" target="_blank"> https://www.cvent.com/en/blog /events/virtual-events</a>.
+                            </li> <br>
+                            <li>
+                                <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
+                                Gerrit Heijkoop. YouTube, 2020. How to Organize Engaging Hybrid Events. Disponível em: <a href="https://youtu.be/1cqj0ruaaXY" target="_blank"> https://youtu.be/1cqj0ruaaXY
+                                </a>
+                            </li> <br>
+                            <li>
+                                <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i>
+                                VANNESTE, Maarten. Multi-Hub Meeting: when groups meets groups. Belgium: 2018, Meeting Support Institute.
+                            </li> <br>
+                            <br><br>
 
-        </div> <!-- DIV MAIN FIM -->
+                        </ul>
 
-        <!-- FOOTER JS -->
-        <?php include('layout/js.php') ?>
+                        <div class="text-center">
+                            <a href="Topico02.php" type="button" class="btn btn-outline-success btn-sm">Página anterior</a>
+                            <a href="Topico04.php" type="button" class="btn btn-outline-success btn-sm">Próxima Página</a>
+                        </div>
+
+                        <!-- SCRIPT LIGHTBOX -->
+                        <script>
+                            $(document).on('click', '[data-toggle="lightbox"]', function(event) {
+                                event.preventDefault();
+                                $(this).ekkoLightbox();
+                            });
+
+                            $(function() {
+                                $('[data-toggle="popover"]').popover()
+                            })
+
+                            $('.popover-dismiss').popover({
+                                trigger: 'focus'
+                            })
+
+                            $('#myCollapsible').collapse({
+                                toggle: false
+                            })
+                        </script>
+
+                    </div> <!-- CLASS PAGE TITLE FIM -->
+                </div> <!-- CONTEUDO FIM -->
+
+                <!-- FOOTER -->
+                <?php include('layout/footer.php') ?>
+
+            </div> <!-- DIV MAIN FIM -->
+
+            <!-- FOOTER JS -->
+            <?php include('layout/js.php') ?>
 
 </body>

@@ -3,9 +3,10 @@
         <div class="sidebar-wrapper active ps ps--active-y">
             <div class="m-4">
                 <a href="index.php">
-                    <img class="img-fluid" src="http://ava.egp.ce.gov.br/2018/desv/logo/egp.png" alt="Logo EGPCE" srcset="">
+                    <img class="img-fluid" src="https://atilasilvalima.a2hosted.com/projects/EGPCE/Cedis/cdn/imagens/egpce.png" alt="Logo EGPCE" srcset="">
                 </a>
             </div>
+            <br>
             <div class="sidebar-menu ">
                 <ul class="menu">
                     <!--  <li class="sidebar-item">

@@ -20,17 +20,17 @@ include('layout/header.php');
         <div class="main-content container-fluid">
             <div class="page-title">
 
-                <h2 class="font-bold">Tópico 1 - Panorama do Comportamento Digital</h2>
+                <h2 class="font-bold">1 - Panorama do Comportamento Digital</h2>
                 <hr>
 
 
 
                 <p class="SubTitulo">Objetivos:</p>
 
-                <ul class="Texto pl-5">
-                    <li>Ilustrar o comportamento dos brasileiros na internet;</li>
-                    <li>Apresentar um recorte do universo de eventos técnico-científicos;</li>
-                    <li>Listar as oportunidades educacionais durante e pós-pandemia.</li>
+                <ul class="Texto pl-5" style="list-style: none;">
+                    <li><i class="fas fa-angle-right CorLaranja"></i> Ilustrar o comportamento dos brasileiros na internet;</li>
+                    <li><i class="fas fa-angle-right CorLaranja"></i> Apresentar um recorte do universo de eventos técnico-científicos;</li>
+                    <li><i class="fas fa-angle-right CorLaranja"></i> Listar as oportunidades educacionais durante e pós-pandemia.</li>
                 </ul>
                 <hr>
 
@@ -47,11 +47,10 @@ include('layout/header.php');
                 </div>
                 <hr>
 
-                JFAS
                 <div class="alert alert-secondary" role="alert">
                     <p class="SubTitulo text-success"> Parabéns, cursista! </p>
 
-                    <p class="Texto text-info"> A partir de agora você ingressa em uma jornada sem volta rumo ao universo apaixonante dos eventos digitais. </p>
+                    <p class="Texto" style="color: #4885AE;"><strong> A partir de agora você ingressa em uma jornada sem volta rumo ao universo apaixonante dos eventos digitais.</strong> </p>
                 </div>
 
                 <p class="SubSubTitulo">Encare esse curso como uma imersão. </p>
@@ -116,8 +115,8 @@ include('layout/header.php');
                         As reflexões acima são comprovadas nos gráficos a seguir:
                     </p>
 
-                    <p class="Texto CorLaranja">
-                        Faça uma reflexão sobre isso e veja o tamanho do impacto que a Pandemia causou em nossas vidas!
+                    <p class="Texto" style="color: #4885AE;">
+                       <strong> Faça uma reflexão sobre isso e veja o tamanho do impacto que a Pandemia causou em nossas vidas!</strong>
                     </p>
                 </div>
 
